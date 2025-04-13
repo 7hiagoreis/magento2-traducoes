@@ -1,0 +1,494 @@
+"This category has children categories. Are you sure you want to delete this?","This category has children categories. Are you sure you want to delete this?"
+Delete,Delete
+"Are you sure you want to delete this?","Are you sure you want to delete this?"
+Import,Import
+Preview,Preview
+"Save and Continue Edit","Salvar e Continuar Editando"
+Save,Salvar
+"Are you sure?","Você tem certeza?"
+"Use Website","Use Website"
+"Use Default","Use Default"
+"Select one and press Apply","Select one and press Apply"
+label,label
+"Please update Amasty Base module. Re-upload it and replace all the files.","Please update Amasty Base module. Re-upload it and replace all the files."
+"Enable blogpagebuilder module to activate PageBuilder and Blog Pro integration. Please, run the following command in the SSH: composer require amasty/blog-page-builder","Enable blogpagebuilder module to activate PageBuilder and Blog Pro integration. Please, run the following command in the SSH: composer require amasty/blog-page-builder"
+"We recommend using the 3rd-party library to improve the mobile detection algorithm. Please, run the following command in the SSH: composer require mobiledetect/mobiledetectlib","We recommend using the 3rd-party library to improve the mobile detection algorithm. Please, run the following command in the SSH: composer require mobiledetect/mobiledetectlib"
+"View All %1","View All %1"
+Guest,Convidado
+"%1 at %2","%1 at %2"
+Home,Home
+"Unknown post id.","Unknown post id."
+"Search results for '%1'","Search results for '%1'"
+"Swipe to the left","Swipe to the left"
+"Swipe to the right","Swipe to the right"
+Categories,Categorias
+"Recent Comments","Recent Comments"
+"Recent Posts","Publicações Recentes"
+"Search The Blog","Pesquisar no Blog"
+"Something went wrong. Please review the error log.","Something went wrong. Please review the error log."
+"We can't change item right now. Please review the log and try again.","We can't change item right now. Please review the log and try again."
+"A total of %1 record(s) have been changed.","A total of %1 record(s) have been changed."
+"No records have been changed.","No records have been changed."
+"You deleted an author.","You deleted an author."
+"We can't find an author to delete.","We can't find an author to delete."
+"Edit Author `%1`","Editar Autor `%1`"
+"Add New Author","Adicionar Novo Autor"
+"Amasty Blog Authors","Amasty Blog Autores"
+Authors,Autores
+"We can't delete item right now. Please review the log and try again.","We can't delete item right now. Please review the log and try again."
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
+"No records have been deleted.","No records have been deleted."
+"Author with the same url key already exists","Author with the same url key already exists"
+"You saved the item.","You saved the item."
+"Something went wrong while saving the item data. Please review the error log.","Something went wrong while saving the item data. Please review the error log."
+"You have deleted the category.","You have deleted the category."
+"We can't find a category to delete.","We can't find a category to delete."
+"Edit Category `%1`","Edit Category `%1`"
+"Add New Category","Add New Category"
+"Amasty Blog Categories","Amasty Blog Categories"
+"Category with the same url key already exists","Category with the same url key already exists"
+"You have exceeded the category tree depth which is limited by %1.","You have exceeded the category tree depth which is limited by %1."
+"You deleted comment.","You deleted comment."
+"We can't find a comment to delete.","We can't find a comment to delete."
+"Edit Comment `%1`","Edit Comment `%1`"
+"Reply to Comment `%1`","Reply to Comment `%1`"
+"Amasty Blog Comments","Amasty Blog Comentários"
+Comments,Comentários
+"The import process was started successfully in accordance to the saved configuration","The import process was started successfully in accordance to the saved configuration"
+"Invalid table prefix","Invalid table prefix"
+"Invalid database credentials","Invalid database credentials"
+"Import depends on cron, thus pressing the import button creates a cron task which will be fulfilled within some period of time","Import depends on cron, thus pressing the import button creates a cron task which will be fulfilled within some period of time"
+"You deleted post.","You deleted post."
+"We can't find a post to delete.","We can't find a post to delete."
+"Please select a post to duplicate.","Please select a post to duplicate."
+"Copy of ","Cópia de "
+"The post has been duplicated.","The post has been duplicated."
+"Edit Post `%1`","Editar Publicação `%1`"
+"Add New Post","Adicionar Nova Publicação"
+"Amasty Blog Posts","Amasty Blog Publicações"
+Posts,Publicações
+"An error occurred while execution","An error occurred while execution"
+"Empty Data for the post for preview","Empty Data for the post for preview"
+"Post with the same url key already exists","Post with the same url key already exists"
+"You deleted tag.","You deleted tag."
+"We can't find a tag to delete.","We can't find a tag to delete."
+"Edit Tag `%1`","Editar Tag `%1`"
+"Add New Tag","Adicionar Nova Tag"
+"Amasty Blog Tags","Amasty Blog Tags"
+Tags,Tags
+"Tag with the same url key already exists","Tag with the same url key already exists"
+"Sorry. There is a problem with your Vote Request.","Sorry. There is a problem with your Vote Request."
+Success.,Success.
+"Form key is not valid. Please try to reload the page.","Form key is not valid. Please try to reload the page."
+"Blog Posts","Blog Posts"
+"The message for reply wasn`t found","The message for reply wasn`t found"
+"Can not create comment.","Can not create comment."
+"Your session was expired. Please refresh this page and try again.","Your session was expired. Please refresh this page and try again."
+"Post is not found.","Post is not found."
+"Can not send email notification.","Can not send email notification."
+"We can't load comments right now. Please reload the page.","We can't load comments right now. Please reload the page."
+Today,Hoje
+Yesterday,Yesterday
+"%1 day ago","%1 day ago"
+"%1 days ago","%1 days ago"
+"%1 month ago","%1 month ago"
+"%1 months ago","%1 months ago"
+"%1 year ago","%1 year ago"
+"%1 years ago","%1 years ago"
+Blog,Blog
+"URL route and URL key are not allow /","URL route and URL key are not allow /"
+"Articles by %1","Articles by %1"
+"There are following posts founded for the search request '%1'","There are following posts founded for the search request '%1'"
+"Posts tagged '%1'","Posts tagged '%1'"
+"Comment Form","Comment Form"
+"Blog Pro","Blog Pro"
+"%1 (Default)","%1 (Default)"
+Classic,Clássico
+Red,Vermelho
+Green,Verde
+Blue,Azul
+Grey,Cinza
+Purple,Roxo
+Twitter,Twitter
+Facebook,Facebook
+VKontakte,VKontakte
+Odnoklassniki,Odnoklassniki
+Blogger,Blogger
+Pinterest,Pinterest
+Tumblr,Tumblr
+Digg,Digg
+StumbleUpon,StumbleUpon
+Slashdot,Slashdot
+Reddit,Reddit
+LinkedIn,LinkedIn
+Whatsapp,Whatsapp
+"No Postfix","No Postfix"
+.html,.html
+"Something went wrong while saving the file(s).","Something went wrong while saving the file(s)."
+"Amasty Import error: ","Amasty Import error: "
+"Amasty Import error with Posts: ","Amasty Import error with Posts: "
+"Amasty Import error with Tags: ","Amasty Import error with Tags: "
+"Amasty Import error with Categories: ","Amasty Import error with Categories: "
+"Amasty Import error with Authors: ","Amasty Import error with Authors: "
+"Amasty Import error with Comments: ","Amasty Import error with Comments: "
+"Invalid layout config. Required parameters are missing.","Invalid layout config. Required parameters are missing."
+"Invalid layout name","Invalid layout name"
+"Layout config format broken","Layout config format broken"
+"Invalid layout name.","Invalid layout name."
+"Invalid xml was generated","Invalid xml was generated"
+"Unable to save author with ID %1. Error: %2","Unable to save author with ID %1. Error: %2"
+"Unable to save new author. Error: %1","Unable to save new author. Error: %1"
+"Unable to remove author with ID %1. Error: %2","Unable to remove author with ID %1. Error: %2"
+"Unable to remove author. Error: %1","Unable to remove author. Error: %1"
+"Unable to save categories with ID %1. Error: %2","Unable to save categories with ID %1. Error: %2"
+"Unable to save new categories. Error: %1","Unable to save new categories. Error: %1"
+"Categories with specified ID ""%1"" not found.","Categories with specified ID ""%1"" not found."
+"Unable to remove categories with ID %1. Error: %2","Unable to remove categories with ID %1. Error: %2"
+"Unable to remove categories. Error: %1","Unable to remove categories. Error: %1"
+"Unable to save comment with ID %1. Error: %2","Unable to save comment with ID %1. Error: %2"
+"Unable to save new comment. Error: %1","Unable to save new comment. Error: %1"
+"Comment with specified ID ""%1"" not found.","Comment with specified ID ""%1"" not found."
+"Unable to remove comment with ID %1. Error: %2","Unable to remove comment with ID %1. Error: %2"
+"Unable to remove comment. Error: %1","Unable to remove comment. Error: %1"
+"Unable to save posts with ID %1. Error: %2","Unable to save posts with ID %1. Error: %2"
+"Unable to save new posts. Error: %1","Unable to save new posts. Error: %1"
+"Posts with specified ID ""%1"" not found.","Posts with specified ID ""%1"" not found."
+"Unable to remove posts with ID %1. Error: %2","Unable to remove posts with ID %1. Error: %2"
+"Unable to remove posts. Error: %1","Unable to remove posts. Error: %1"
+"Unable to save tag with ID %1. Error: %2","Unable to save tag with ID %1. Error: %2"
+"Unable to save new tag. Error: %1","Unable to save new tag. Error: %1"
+"Tag with specified ID ""%1"" not found.","Tag with specified ID ""%1"" not found."
+"Unable to remove tag with ID %1. Error: %2","Unable to remove tag with ID %1. Error: %2"
+"Unable to remove tag. Error: %1","Unable to remove tag. Error: %1"
+"Unable to save view with ID %1. Error: %2","Unable to save view with ID %1. Error: %2"
+"Unable to save new view. Error: %1","Unable to save new view. Error: %1"
+"View with specified ID ""%1"" not found.","View with specified ID ""%1"" not found."
+"Unable to remove view with ID %1. Error: %2","Unable to remove view with ID %1. Error: %2"
+"Unable to remove view. Error: %1","Unable to remove view. Error: %1"
+"Unable to save vote with ID %1. Error: %2","Unable to save vote with ID %1. Error: %2"
+"Unable to save new vote. Error: %1","Unable to save new vote. Error: %1"
+"Vote with specified ID ""%1"" not found.","Vote with specified ID ""%1"" not found."
+"Unable to remove vote with ID %1. Error: %2","Unable to remove vote with ID %1. Error: %2"
+"Unable to remove vote. Error: %1","Unable to remove vote. Error: %1"
+"Category '%1' can be disabled only. Some category has same Url Key for the same Store View.","Category '%1' can be disabled only. Some category has same Url Key for the same Store View."
+"Category with the same url key already exists.","Category with the same url key already exists."
+"Post '%1' can be disabled only. Some post has same Url Key for the same Store View.","Post '%1' can be disabled only. Some post has same Url Key for the same Store View."
+"A post with the same url key already exists.","A post with the same url key already exists."
+Disabled,Disabled
+Enabled,Enabled
+Pending,Pending
+Approved,Approved
+Rejected,Rejected
+"One Column","One Column"
+"Three Columns","Three Columns"
+"Two Columns and Left Sidebar","Two Columns and Left Sidebar"
+"Two Columns and Right Sidebar","Two Columns and Right Sidebar"
+Hidden,Hidden
+Published,Published
+Scheduled,Scheduled
+"Amasty Blog","Amasty Blog"
+"Posts Listing Page","Posts Listing Page"
+"Post Page","Post Page"
+"Root Category","Root Category"
+Select...,Select...
+Edit,Editar
+Approve,Approve
+Reject,Reject
+Reply,Reply
+"Delete ${ $.$data.name }","Delete ${ $.$data.name }"
+"Are you sure you wan't to delete a ${ $.$data.name } record?","Are you sure you wan't to delete a ${ $.$data.name } record?"
+Duplicate,Duplicate
+"Duplicate ""${ $.$data.title }""","Duplicate ""${ $.$data.title }"""
+"Are you sure you want to duplicate a ""${ $.$data.title }"" record?","Are you sure you want to duplicate a ""${ $.$data.title }"" record?"
+Try,Try
+"Custom Reports Builder","Custom Reports Builder"
+Explore,Explore
+Views:,Views:
+Like:,Like:
+Dislike:,Dislike:
+"Drop here","Drop here"
+"Remove Block","Remove Block"
+"Add Block to Column","Add Block to Column"
+Apply,Apply
+"Leave a reply to %1","Leave a reply to %1"
+"Leave a comment","Leave a comment"
+"Your message on review","Your message on review"
+"John Doe","John Doe"
+Name,Name
+john.doe@example.com,john.doe@example.com
+Email,Email
+"Leave your reply here...","Leave your reply here..."
+"Leave your comment here...","Leave your comment here..."
+Submit,Submit
+"Please ","Por favor "
+login,login
+" to reply."," to reply."
+" to comment."," to comment."
+"Don't have an account?","Não tem conta?"
+"Sign Up for free","Sign Up for free"
+"New comments for this post are not allowed","New comments for this post are not allowed"
+"This comment will become public after administrator approval.","This comment will become public after administrator approval."
+"Search entire store here...","Pesquisar toda a loja..."
+Search,Procurar
+"Read More","Leia Mais"
+"There are no posts yet.","Ainda não há postagens... Estamos atualizando... Volte em breve!"
+"Welcome, %1!","Bem-Vindo, %1!"
+"Blog's Menu","Menu Blog's"
+"Read More...","Leia Mais..."
+"Posted in: ","Publicado em: "
+"Newer Entries","Novas Entradas"
+"Older Entries","Entradas Antigas"
+"By ","Por "
+"%1 comment","%1 comentário"
+"%1 comments","%1 comentários"
+"No comments","Nenhum comentário =("
+"Related Posts","Publicações Relacionadas"
+Currency,Moeda
+Language,Idioma
+"Select Store ","Selecione a Loja "
+"Leave your comment","Deixe o seu Comentário"
+"Your name","Nome"
+"Your e-mail","Email"
+"Text your reply...","Envie o seu comentário..."
+"Text your comment...","Envie o seu comentário..."
+"Post comment","Publicar Comentário"
+"Show comments","Exibir Comentários"
+"Featured Posts","Publicações em Destaque"
+"%1 view(s)","%1 Visualizações"
+"%1 of %2","%1 de %2"
+"Print This Page","Imprimir esta Página"
+Print,Imprimir
+"Posts I Liked","Publicações que eu Curti"
+"Posts I Commented","Publicações que eu Comentei"
+"There are no posts you liked. To read our Blog, please, click","Não há publicações que você curtiu. Para ler o nosso Blog, por favor, clique"
+here,aqui
+"There are no posts you commented. To read our Blog, please, click","Não há publicações que você comentou. Para ler o nosso Blog, por favor, clique"
+"Did you like this post?","Gostou desta publicação?"
+"About author","Sobre o Autor"
+"Categories were not found","Categorias não encontradas"
+"Comments were not found","Comentários não encontrados"
+"Posts were not found","Publicações não encontradas"
+"Find some...","Encontre algum..."
+"Unfortunately, your browser doesn't support HTML5 canvas.","Infelizmente o seu navegador não oferece suporte a telas HTML5."
+"%1 Topics","%1 Topics"
+"Tags were not found","As Tags não foram encontradas"
+"Delete image","Excluir imagem"
+"A new comment was added","A new comment was added"
+"A new comment on the post","A new comment on the post"
+"was added","was added"
+"Best Regards","Nossos Sinceros Cumprimentos"
+Hello!,Olá!
+"There is a new reply to the comment thread You were participating in.","There is a new reply to the comment thread You were participating in."
+"Please, see details below:","Please, see details below:"
+"Reply to comment:","Reply to comment:"
+"If You want to reply, please, click ","If You want to reply, please, click "
+"Showing %1 comments","Showing %1 comments"
+Information,Informação
+"Display Settings","Display Settings"
+"Blog Link Title","Blog Link Title"
+"Display Blog Link in Footer","Display Blog Link in Footer"
+"Display Blog Link in Header","Display Blog Link in Header"
+"Display Blog Link in Top Menu","Display Blog Link in Top Menu"
+"Search Engine Optimization","Search Engine Optimization"
+Route,Route
+"Blog Home Page Title","Blog Home Page Title"
+"Blog Home Page Breadcrumb Label","Blog Home Page Breadcrumb Label"
+"Blog Home Page Meta Title","Blog Home Page Meta Title"
+"Blog Home Page Meta Description","Blog Home Page Meta Description"
+"Blog Home Page Meta Keywords","Blog Home Page Meta Keywords"
+"Blog Pages Meta Title Prefix","Blog Pages Meta Title Prefix"
+"Adds prefix to meta titles of all blog pages.","Adds prefix to meta titles of all blog pages."
+"Blog Pages Meta Title Suffix","Blog Pages Meta Title Suffix"
+"Organization Name","Organization Name"
+"Used for creation post microdata.","Used for creation post microdata."
+"URLs and Redirects","URLs and Redirects"
+"URL Postfix","URL Postfix"
+"Redirect to SEO-Formatted URL","Redirect to SEO-Formatted URL"
+Layout,Layout
+"Mobile List","Mobile List"
+"Mobile Post","Mobile Post"
+"Desktop List","Desktop List"
+"Desktop Post","Desktop Post"
+List,Lista
+"Number of Posts per Page","Number of Posts per Page"
+Post,Post
+"Display Author Name","Display Author Name"
+"Display Number of Views","Display Number of Views"
+"Display Print Link","Display Print Link"
+"Display Tags","Display Tags"
+"Date Format","Date Format"
+"Width of image on Blog page","Width of image on Blog page"
+"Height of image on Blog page","Height of image on Blog page"
+"Enable 'Like' Control","Enable 'Like' Control"
+"Show Categories the Post Belongs to","Show Categories the Post Belongs to"
+"If enabled, the categories block will be displayed on post view and listings pages.","If enabled, the categories block will be displayed on post view and listings pages."
+"Limit of Categories to Show on Post","Limit of Categories to Show on Post"
+"If empty or 0, all categories assigned to a blog post will be displayed.","If empty or 0, all categories assigned to a blog post will be displayed."
+"Limit of Categories in Layout Widget","Limit of Categories in Layout Widget"
+"Defines the number of categories per each level to be shown in the categories tree.","Defines the number of categories per each level to be shown in the categories tree."
+"Use Comments","Use Comments"
+"Automatic Approving","Automatic Approving"
+"Allow Guest Comments","Allow Guest Comments"
+"Quantity of Recent Comments in Block","Quantity of Recent Comments in Block"
+"Display Short Content for Recent Comments","Display Short Content for Recent Comments"
+"Display Date for Recent Comments","Display Date for Recent Comments"
+"Ask Email for Comment","Ask Email for Comment"
+"Ask Name for Comment","Ask Name for Comment"
+"Notify Customers about Replies to Comments","Notify Customers about Replies to Comments"
+"Email Sender","Email Sender"
+"Email Template","Email Template"
+"Enable GDPR consent","Enable GDPR consent"
+"GDPR Consent Text","GDPR Consent Text"
+"Notification of Added Comment","Notification of Added Comment"
+Receiver,Receiver
+"This will be used in the ""To"" field. Several emails should be written on a separate line.","This will be used in the ""To"" field. Several emails should be written on a separate line."
+Sender,Sender
+"This will be used as ""From""","This will be used as ""From"""
+"Notification Template","Notification Template"
+"This email template will be used to send a notification of a new submitted comment.","This email template will be used to send a notification of a new submitted comment."
+"Recent Posts Block","Recent Posts Block"
+"Recent Posts Quantity in Block","Recent Posts Quantity in Block"
+"Display Short Content","Display Short Content"
+"Short Content Limit","Short Content Limit"
+"Display Date","Display Date"
+"Display Image","Display Image"
+"Image Width (px)","Image Width (px)"
+"Image Height (px)","Image Height (px)"
+"Posts&Products Relation","Posts&Products Relation"
+"Show Related Posts Tab on Product Page","Show Related Posts Tab on Product Page"
+"Related Posts Tab Title","Related Posts Tab Title"
+"Show Related Products Block on Post Page","Show Related Products Block on Post Page"
+"Related Products Block Title","Related Products Block Title"
+"Minimal Posts Number per Tag","Minimal Posts Number per Tag"
+"Use 3D Cloud to Display Tags","Use 3D Cloud to Display Tags"
+"3D Cloud: Height","3D Cloud: Height"
+"3D Cloud: Color Scheme","3D Cloud: Color Scheme"
+"Choose any color scheme and press Apply to fill color fields automatically","Choose any color scheme and press Apply to fill color fields automatically"
+"3D Cloud: Text Color","3D Cloud: Text Color"
+"3D Cloud: Tag Color for Less Used Tags","3D Cloud: Tag Color for Less Used Tags"
+"3D Cloud: Tag Highlight Color","3D Cloud: Tag Highlight Color"
+"Social Buttons","Botões Sociais"
+Networks,Redes
+"Look and Feel","Olhar e Sentir"
+Include,Incluir
+"Accelerated Mobile Pages","Aceleramento de Paginas Mobile"
+"Enable AMP","Habilitar AMP"
+Logo,Logo
+Image,Imagem
+"Allowed file types: jpeg, gif, png. Maximum file size: 2MB","Tipos de arquivo permitidos: jpeg, gif, png. Tamanho máximo do arquivo: 2MB"
+Width,Largura
+height,altura
+Design,Design
+"Tag Color","Cor da Tag"
+"Link Color","Cor do Link"
+"Link Color (On Hover)","Cor do Link (On Hover)"
+"Button Background Color","Cor de Fundo do Botão"
+"Button Background Color (On Hover)","Cor de Fundo do Botão (On Hover)"
+"Button Text Color","Cor do Texto do Botão"
+"Button Text Color (On Hover)","Cor do Texto do Botão (On Hover)"
+"Footer Background Color","Cor de Fundo do Rodapé"
+"Footer Link Color","Cor do Link do Rodapé"
+"Amasty Blog layouts, configurations, etc.","Amasty Blog layouts, configurations, etc."
+"Please disable the setting if you use consent checkboxes configured for Blog Pro form via <a href='%1'>GDPR Consent Checkboxes.</a>","Please disable the setting if you use consent checkboxes configured for Blog Pro form via <a href='%1'>GDPR Consent Checkboxes.</a>"
+"Amasty Blog Recent Posts","Publicações Recentes do Blog Amasty"
+"Blog Recent Posts","Postagens Recentes do Blog"
+"Header Text","Texto do Cabeçalho"
+"Posts Limit","Limite de Publicações"
+"Show Post Images in the Widget View","Exibir Imagens da Publicação na Visualização do Widget"
+"Show Date for Recent Posts","Mostrar Data para Publicações Recentes"
+"Show Short Content for Recent Posts","Exibir Conteúdo Curto para Publicações Recentes"
+"Post Categories for the Widget","Categorias das Publicações para o Widget"
+"Post Tags for the Widget","Publicar Tags para o Widget"
+"Default Template","Modelo Padrão"
+"Blog Categories","Categorias do Blog"
+"Categories Limit","Limite de Categorias"
+"Amasty Blog Recent Comments","Comentários Recentes do Blog Amasty"
+"Blog Recent Comments","Comentários Recentes do Blog"
+"Comments Limit","Limite de Comentários"
+"Show Date for Recent Comments","Exibir Data para Comentários Recentes"
+"Blog Tags","Tags do Blog"
+"Amasty Blog Featured Posts","Publicações em Destaque no Blog Amasty"
+"Blog Featured Posts","Publicações em Destaque no Blog"
+"All Store Views","Todas as Visualizações da Loja"
+"Store View","Visualização da Loja"
+ID,ID
+Thumbnail,Thumbnail
+Type,Tipo
+"Attribute Set","Conjunto de Atributos"
+SKU,SKU
+Price,Preço
+Visibility,Visibilidade
+Status,Status
+Websites,Websites
+Title,Título
+"Url Key","Chave Url"
+Tag,Tag
+Back,Voltar
+General,Geral
+"Job Title","Cargo"
+"Facebook Profile","Perfil do Facebook"
+"Twitter Profile","Perfil do Twitter"
+"LinkedIn Profile","Perfil do LinkedIn"
+"Short Description","Descrição Curta"
+"Meta Data","Meta Dados"
+"Meta Title","Meta Título"
+"Meta Tags","Meta Tags"
+"Meta Description","Meta Descrição"
+"Posts of Author","Publicações do Autor"
+"Add Author","Adicionar Autor"
+Category,Categoria
+"Parent Category","Categoria Parental"
+"Posts from Category","Postagens da Categoria"
+"New Category","Nova Categoria"
+Activate,Ativar
+Inactivate,Desativar
+"Sort Order","Ordem de Classificação"
+"Created At","Criado em"
+"Updated At","Atualizado em"
+Comment,Comentário
+E-Mail,E-Mail
+"Posted From","Publicado de"
+"Are you sure you want to approve?","Tem certeza que deseja aprovar?"
+"Wordpress Import","Importar BD Wordpress"
+"Database Name","Nome do Banco de Dados"
+"Database User Name","Nome de Usuário do Banco de Dados"
+"Database Password","Senha do Banco de Dados"
+"Database Host","Host de Banco de Dados"
+"Table Prefix","Prefixo da Tabela"
+"Allow Update Content on Existing URL-key","Permitir Atualização de Conteúdo na Chave de URL Existente"
+"Image Path Hint","Dica de Caminho da Imagem"
+" "," "
+"Publish Status","Publicar Status"
+"Published Date","Data de Publicação"
+Options,Opções
+"We couldn't find any records","Não conseguimos encontrar nenhum registro"
+Author,Autor
+"Allow comments","Permitir Comentários"
+"Mark as Featured","Marcar como Destaque"
+"Post without List Image won't be displayed","A publicação sem a imagem da lista não será exibida"
+Content,Conteúdo
+"
+                                The image will be resized to size from blog config
+                            ","
+                                A imagem será redimensionada para o tamanho da configuração do blog
+                            "
+"Post Image Alt","Post Image Alt"
+"A title of post will be used if this field is empty","Um título da publicação será usado se este campo estiver vazio"
+"List Image Alt","List Image Alt"
+"Image Link","Link da Imagem"
+"Add Related Posts","Adicionar Publicações Relacionadas"
+Cancel,Cancelar
+"Add Selected Posts","Adicionar Publicações Selecionadas"
+Remove,Remover
+Actions,Ações
+"Related Products","Produtos Relacionados"
+"Add Related Products","Adicionar Produtos Relacionados"
+"Add Selected Products","Adicionar Produtos Selecionados"
+"Add Post","Adicionar Publicação"
+"Published At","Publicado em"
+"Tagged Posts","Publicações Marcadas"
+"Add Tag","Adicionar Tag"
+"Used In Posts","Usado em Publicações"
+Menu,Menu
+Account,Conta
+Settings,Configurações
