@@ -1,0 +1,68 @@
+"Run Cron","Executar Cron"
+"Cron Jobs","Tarefas Cron"
+"Changes Saved","Alterações Salvas"
+"%1 job(s) has been successfully deleted","%1 tarefa(s) foi(ram) excluído(s) com sucesso"
+"%1 job(s) has been failed to delete","%1 tarefas(s) falhou/falharam ao excluir"
+"%1 job(s) has been successfully disabled","%1 tarefas(s) foi(ram) desativado(s) com sucesso"
+"%1 job(s) has been failed to disable","%1 tarefas(s) não conseguiu(ram) desativar"
+"%1 job(s) has been successfully enabled","%1 tarefas(s) foi(ram) habilitada(s) com sucesso"
+"%1 job(s) has been failed to enable","%1 tarefa(s) não conseguiu(ram) ativar"
+"Disabled job can't be runed","A tarefa desativada não pode ser executada"
+"Invalid callback: %1::%2 can't be called","Retorno de chamada inválido: %1::%2 não pode ser chamado"
+"The job has been run","A tarefa foi executado"
+"Cron Timeline","Linha do Tempo Cron"
+Disabled,Desabilitado
+Enabled,Habilitado
+"Unable to save job with ID %1. Error: %2","Incapaz de salvar tarefa com ID %1. Erro: %2"
+"Unable to save job. Error: %1","Incapaz de salvar a tarefa. Erro: %1"
+"Job with specified ID ""%1"" not found.","Tarefa com ID especificado ""%1"" não encontrado."
+"Unable to remove job with ID %1. Error: %2","Incapaz de remover tarefa com ID %1. Erro: %2"
+"Unable to remove job. Error: %1","Incapaz de remover a tarefa. Erro: %1"
+"Zoom In","Mais Zoom"
+"Zoom Out","Menos Zoom"
+"Cron Scheduler","Agendador Cron"
+"Email Notification","Notificação de E-mail"
+"Send email notification on a task failure","Enviar notificação por e-mail em caso de falha de tarefa"
+"Email Sender","Remetente de E-mail"
+"Send notification to","Enviar notificação para"
+"Please input any new email address on a new line","Insira qualquer novo endereço de e-mail em uma nova linha"
+"Email Subject","Assunto do E-mail"
+"You can use any of these variables to configure an email subject:<br/>
+                    - {{job_code}}: code of the schedule job<br/>
+                    - {{executed_at}}: execution datetime<br/>
+                    - {{message}}: error message","You can use any of these variables to configure an email subject:<br/>
+                    - {{job_code}}: code of the schedule job<br/>
+                    - {{executed_at}}: execution datetime<br/>
+                    - {{message}}: error message"
+"Email content","Conteúdo do E-mail"
+"You can use any of these variables to configure an email content:<br/>
+                    - {{job_code}}: code of the schedule job<br/>
+                    - {{executed_at}}: execution datetime<br/>
+                    - {{message}}: error message","You can use any of these variables to configure an email content:<br/>
+                    - {{job_code}}: code of the schedule job<br/>
+                    - {{executed_at}}: execution datetime<br/>
+                    - {{message}}: error message"
+"Notifications Time Filter","Notifications Time Filter"
+"Please enter the value in minutes. Enter 0 to receive notifications without filtering","Please enter the value in minutes. Enter 0 to receive notifications without filtering"
+"The setting is used to avoid 'spamming' from a frequently executed jobs. If there is a multifunctional job that runs every 5 minutes, then it would disturb you with emails every 5 minutes as well. Using the field you can specify the time period when a single job will not disturb you with the same failure email after the first message was sent. It does not affect notifications from other jobs.<br/>
+e.g. If the setting value is 60, then any multifunctional job will be able to send you notification not more than once per hour.","The setting is used to avoid 'spamming' from a frequently executed jobs. If there is a multifunctional job that runs every 5 minutes, then it would disturb you with emails every 5 minutes as well. Using the field you can specify the time period when a single job will not disturb you with the same failure email after the first message was sent. It does not affect notifications from other jobs.<br/>
+e.g. If the setting value is 60, then any multifunctional job will be able to send you notification not more than once per hour."
+Status,Status
+"Select status..","Selecione o Status..."
+Enable,Habilitar
+"Enable Jobs","Habilitar Tarefas"
+"Are you sure you want to enable selected jobs?","Tem certeza de que deseja habilitar as tarefas selecionadas?"
+Disable,Desabilitar
+"Disable Jobs","Desativar Tarefas"
+"Are you sure you want to disable selected jobs?","Tem certeza que deseja desativar as tarefas selecionadas?"
+Delete,Excluir
+"Delete Jobs","Excluir Tarefas"
+"Are you sure you want to delete selected jobs?","Tem certeza de que deseja excluir as tarefas selecionadas?"
+ID,ID
+"Job Code","Código da Tarefa"
+Group,Grupo
+Instance,Instância
+Method,Método
+Schedule,Cronograma
+"Modified Schedule","Cronograma Modificado"
+"Run Job","Executar Tarefa"
