@@ -2,6 +2,8 @@
 
 Este repositório contém arquivos de tradução em português do Brasil para o Magento 2 e módulos de terceiros, como os da **Amasty**, entre outros.
 
+
+
 ## 📁 Estrutura
 
 Os arquivos seguem a estrutura:
@@ -14,6 +16,8 @@ Os arquivos seguem a estrutura:
 - `Magento/Catalog/i18n/pt_BR.csv`
 - `vendor/amasty/Blog/i18n/pt_BR.csv`
 - `vendor/amasty/SEO/i18n/pt_BR.csv`
+
+
 
 ## 🛠 Como usar
 
