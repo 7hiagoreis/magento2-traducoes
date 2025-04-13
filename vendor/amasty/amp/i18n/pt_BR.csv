@@ -1,0 +1,182 @@
+"Please update Amasty Base module. Re-upload it and replace all the files.","Atualize o módulo Amasty Base. Faça o upload novamente e substitua todos os arquivos."
+"We recommend using the 3rd-party library to improve the mobile detection algorithm. Please, run the following command in the SSH: composer require mobiledetect/mobiledetectlib","Recomendamos usar a biblioteca de terceiros para melhorar o algoritmo de detecção de dispositivos móveis. Por favor, execute o seguinte comando no SSH: composer require mobiledetect/mobiledetectlib"
+"Related Products","Produtos Relacionados"
+"We found other products you might like!","Encontramos outros produtos de que você pode gostar!"
+" (Excl. tax: "," (Excl. Impostos: "
+Review,Avaliação
+Reviews,Avaliações
+"From AMP Google results only","Somente Resultados AMP do Google"
+Always,Sempre
+Left,Esquerda
+Center,Centro
+Right,Direita
+"Invalid argument. Argument is not URL.","Argumento inválido. O argumento não é uma URL."
+"You added %1 to your","Você adicionou %1 para o seu"
+"File validation failed.","Validação do arquivo falhou."
+"%1 has been added to your Wish List.","%1 foi adicionado à sua Lista de Desejos."
+"\nThe current version of Magento is not supported. The AMP extension is designed only for Magento versions starting with 2.3 and higher.\nPlease contact Amasty Support Team to get information about the custom solutions or please update Magento to 2.3 or higher.\n","\nThe current version of Magento is not supported. The AMP extension is designed only for Magento versions starting with 2.3 and higher.\nPlease contact Amasty Support Team to get information about the custom solutions or please update Magento to 2.3 or higher.\n"
+"Filter by %1","Filtrar por %1"
+"Remove filter by %1 ","Remover filtro por %1 "
+Filters,Filtros
+"close sidebar","fechar barra lateral"
+"Clear all filters","Limpar todos os filtros"
+Clear,Limpar
+"Apply filters","Aplicar filtros"
+Apply,Aplicar
+"There are no filter options to apply on this page.","Não há opções de filtro para aplicar nesta página."
+"Add to Cart","Adicionar ao carrinho"
+"Adding ...","Adicionando ..."
+"We can't find products matching the selection.","Não encontramos os produtos que correspondam à seleção."
+"Out of stock","Fora de Estoque"
+"Open filters sidebar","Abrir a barra lateral de filtros"
+"Items %1 to %2 of %3 total","Itens %1 para %2 de %3 total"
+"%1 Item","%1 Item"
+"%1 Item(s)","%1 Iten(s)"
+"List of pages","Lista de páginas"
+"Go to previous page","Vá para a página anterior"
+"Go to first page","Vá para a primeira página"
+"Go to page number %1","Vá para o número da página %1"
+"Go to the last page","Vá para a última página"
+"Go to next page","Vá para a próxima página"
+"Sorting products by","Classificando produtos por"
+"Sorting by %1","Classificando por %1"
+"See Details","Ver Detalhes"
+"Go to top of the page","Vá para o topo da página"
+"Open shopping cart","Abrir Carrinho de Compras"
+"shopping cart","carrinho de compras"
+"open review list","abrir lista de revisão"
+Subscription,Inscrição
+"Enter your email address","Insira o seu endereço de email"
+Subscribe,Inscrever
+"Search entire store here ...","Pesquisar toda a loja aqui..."
+Reset,Redefinir
+Search,Procurar
+"Open search pop up","Abrir pop-up de pesquisa"
+"Open cart page","Abrir a página do carrinho"
+"open menu","abrir menu"
+"close menu","fechar menu"
+Menu,Menu
+Account,Conta
+Settings,Configurações
+"Welcome, %1!","Bem-vindo(a), %1!"
+Currency,Moeda
+Language,Idioma
+"View All %1","Ver Tudo %1"
+Qty,Qtd
+"Set Qty","Definir Qtd"
+"Customize and Add to Cart","Personalizar e Adicionar ao Carrinho"
+"product photo","foto do produto"
+"main product photo","foto do produto principal"
+"Please Select","Por favor Selecione"
+"Maximum characters %1","Caracteres máximos %1"
+"Write a review","Escreva uma Avaliação"
+"Share your thoughts with other customers","Compartilhe seus pensamentos com outros clientes"
+"You're reviewing:","Você está avaliando:"
+"%1 %2","%1 %2"
+Nickname,Nome
+Summary,Resumo
+"Submit Review","Enviar Avaliação"
+"Only registered users can write reviews. 
+                Please <a class=""amamp-link"" href=""%1"">Sign in</a> or <a class=""amamp-link"" href=""%2"">create an account
+                </a>","Somente usuários registrados podem escrever comentários. 
+                Por favor <a class=""amamp-link"" href=""%1"">Acesse</a> ou <a class=""amamp-link"" href=""%2"">crie uma conta
+                </a>"
+Collapse,Colapso
+Hide,Ocultar
+"See more","Ver mais"
+"Add to Wish List","Adicionar a Lista de Desejos"
+"Choose an Option...","Escolha uma Opção..."
+"Download sample of product","Download Amostra do Produto"
+sample,amostra
+"Product Name","Nome do Produto"
+Availability,Disponibilidade
+"No options of this product are available.","Nenhuma opção deste produto está disponível."
+AMP,AMP
+Information,Informação
+General,Geral
+"Enable AMP for Product Pages","Ativar AMP para Páginas de Produtos"
+"Enable AMP for Category Pages","Ativar AMP para Páginas de Categoria"
+"Enable AMP for Home Page","Ativar AMP para Página Inicial"
+"Enable AMP for CMS Pages","Ativar AMP para Páginas CMS"
+"Open Accelerated Mobile Pages","Abrir Acelerador de Páginas para Celular"
+"AMP Design","AMP Design"
+Logo,Logo
+Image,Imagem
+"Allowed file types: jpeg, png. Maximum file size: 2MB","Tipos de arquivo permitidos: jpeg, png. Tamanho máximo do arquivo: 2MB"
+Width,Largura
+"Maximum width is 180px.","A largura máxima é 180px."
+Height,Altura
+"Maximum height is 60px.","A altura máxima é 60px."
+"Logo Alignment","Alinhamento do Logotipo"
+Design,Design
+"Button Background Color","Cor de Fundo do Botão"
+"Button Background Color (On Focus)","Cor de Fundo do Botão (Em Foco)"
+"Button Text Color","Cor do Texto do Botão"
+"Button Text Color (On Focus)","Cor do Texto do Botão (Em Foco)"
+"Link Color","Cor do Link"
+"Link Color (On Focus)","Cor do Link (Em Foco)"
+"Header Background Color","Cor de Fundo do Cabeçalho"
+"Footer Background Color","Cor de Fundo do Rodapé"
+"Category Image","Imagem da Categoria"
+"The image uploaded into category’s configuration will be resized accordingly.","A imagem carregada na configuração da categoria será redimensionada de acordo."
+"Amasty Amp Catalog Products List","Lista de Produtos do Catálogo Amasty Amp"
+"List of Products","Lista de Produtos"
+Title,Título
+"Number of Products to Display","Número de Produtos para Exibir"
+Template,Modelo
+Grid,Grade
+List,Lista
+Slider,Slider
+"Cache Lifetime (Seconds)","Tempo de Vida do Cache (Segundos)"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "
+Conditions,Condições
+"Amasty Amp Catalog New Products List","Catálogo Amasty Amp Lista de Novos Produtos"
+"List of Products that are set as New","Lista de Produtos que são Definidos como Novos"
+"Display Type","Tipo de Exibição"
+"All products - recently added products, New products - products marked as new","Todos os produtos - produtos adicionados recentemente, novos produtos - produtos marcados como novos"
+"All products","Todos os Produtos"
+"New products","Novos produtos"
+"Amasty Amp Catalog Category Link","Link da Categoria do Catálogo Amasty Amp"
+"Link to a Specified Category","Link para uma Categoria Especifica"
+Category,Categoria
+"Select Category...","Selecione a Categoria..."
+"Anchor Custom Text","Texto Âncora Personlizado"
+"If empty, we'll use the category name here.","Se estiver vazio, usaremos o nome da categoria aqui."
+"Anchor Custom Title","Titulo Âncora Personlizado"
+"Category Link Block Template","Modelo de Bloco de Link de Categoria"
+"Category Link Inline Template","Modelo Embutido de Link de Categoria"
+"Amasty Amp Catalog Product Link","Link do Produto do Catálogo Amasty Amp"
+"Link to a Specified Product","Link para um Produto Especifico"
+Product,Produto
+"Select Product...","Selecione o Produto..."
+"If empty, we'll use the product name here.","Se estiver vazio, usaremos o nome do produto aqui."
+"Product Link Block Template","Modelo de Bloco de link de Produto"
+"Product Link Inline Template","Modelo Embutido do Link do Produto"
+"Amasty Amp CMS Page Link","Link da Página Amasty Amp CMS"
+"Link to a CMS Page","Link para uma Página CMS"
+"CMS Page","Página CMS"
+"Select Page...","Selecione a Página..."
+"If empty, the Page Title will be used","Se estiver vazio, o título da página será usado"
+"Cms Page Link Block Template","Modelo de Bloco de Link de Página CMS"
+"Cms Page Link Inline Template","Modelo Embutido do Link da página CMS"
+"AMP Content","Conteúdo AMP"
+Overview,Visão Geral
+"More Information","Mais Informações"
+Details,Detalhes
+"Create an Account","Criar uma Conta"
+"My Account","Minha Conta"
+"My Wish List","Minha Lista de Desejos"
+"Search Terms","Termos de Pesquisa"
+"Privacy and Cookie Policy
+                                ","Política de Privacidade e Cookies
+                                "
+"Contact Us","Contate-Nos"
+"Advanced Search","Busca Avançada"
