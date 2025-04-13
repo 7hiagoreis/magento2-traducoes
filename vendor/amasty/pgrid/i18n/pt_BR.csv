@@ -1,0 +1,85 @@
+"You can't change qty for the composite products","Você não pode alterar a quantidade para os produtos compostos"
+"No Categories","Sem Categorias"
+"Single Cell","Célula Única"
+"Multi Cell","Multi-Célula"
+Added,Adicionado
+"Not Added","Não Adicionado"
+Yes,Sim
+No,Não
+"For Qty","Para Qtde"
+" Price"," Preço"
+"No columns found","Nenhuma coluna encontrada"
+"This item has weight","Este item tem peso"
+"This item has no weight","Este item não tem peso"
+"Manage Stock Disabled","Gerenciar Estoque Desativado"
+"In Stock","Em Estoque"
+"Out Of Stock","Fora de Estoque"
+Close,Fechado
+Columns,Colunas
+Extra,Extra
+Attribute,Atributo
+Default,Padrão
+Column,Coluna
+Title,Título
+Edit,Editar
+Filter,Filtro
+Marker,Marcador
+"Export Selected Products","Exportar Produtos Selecionados"
+"Export Whole Page","Exportar a Página Inteira"
+Dismiss,Liberar
+"Please select product export option.","Selecione a opção de exportação do produto."
+"You can select specific products on grid to export, instead of all products on page.","Você pode selecionar produtos específicos na grade para exportar, em vez de todos os produtos na página."
+Proceed,Continuar
+Save,Salvar
+"You have unsaved changes on this page.","Você tem alterações não salvas nesta página."
+"Do you want to save the changes or proceed without saving?","Quer salvar as alterações ou continuar sem salvar?"
+"Go to Details Page","Vá para a página de detalhes"
+"Upload Images and Videos for ","Carregar imagens e vídeos para "
+"You have successfully saved your edits.","Você salvou suas edições com sucesso."
+Search,Procurar
+Attention,Atenção
+"Unable to export product because of using IE browser.","Não foi possível exportar o produto devido ao uso do navegador IE."
+"Product Grid","Grade do Produto"
+"Editing Settings","Editando Configurações"
+"Editing Mode","Modo de Edição"
+"Single Cell - data is being saved right after any cell is edited. Multi Cell - Save button should be clicked after data in multiple cells has been edited.","Célula Única - os dados estão sendo salvos logo após qualquer célula ser editada. Multi-Célula - o botão Salvar deve ser clicado depois que os dados em várias células forem editados."
+"Additional Grid Columns Settings","Configurações Adicionais de Colunas da Grade"
+"Related products, Up-sells, Cross-sells Columns","Produtos Relacionados, Vendas Incrementais e Colunas de Vendas Cruzadas"
+"Products Qty","Qtd de Produtos"
+"Specify the number of related, cross-sell, and up-sell products to display on the grid's cell","Especifique o número de produtos relacionados, venda cruzada e venda incrementada para exibir na célula da grade"
+"'Qty Sold' Column","'Qtd Vendida' Coluna"
+"'Qty Sold' Date From","'Quantidade Vendida' Data de"
+"Specify the time period to display the number of orders in the 'Qty Sold' field.","Especifique o período de tempo para exibir o número de pedidos no campo 'Qtd Vendida'."
+"'Qty Sold' Date To","'Qty Sold' Date To"
+"'Qty Sold' Order Statuses","'Qty Sold' Order Statuses"
+"Define order statuses that should be included in the 'Qty Sold' field.","Defina os status do pedido que devem ser incluídos no campo 'Qtd Vendida'."
+"Include Refunded Items","Incluir Itens Reembolsados"
+"Quantity Based Availability","Disponibilidade Baseada em Quantidade"
+"When set to yes, availability will automatically change to 'In stock' when quantity is positive and to 'Out of stock"" when quantity is zero or negative. When set to 'No', availability status will not be updated automatically.","Quando definida como sim, a disponibilidade mudará automaticamente para 'Em estoque' quando a quantidade for positiva e para 'Fora de estoque"" quando a quantidade for zero ou negativa. Quando definido como 'Não', o status de disponibilidade não será atualizado automaticamente."
+"Show Quantity as Integer","Mostrar Quantidade como Número Inteiro"
+"Amasty: Product Grid - Qty Sold","Amasty: Grade de Produtos - Quantidade Vendida"
+"Rebuild qty sold value","Reconstruir o valor da quantidade vendida"
+Categories,Categorias
+Select..,Selecione..
+Action,Ação
+"Set Product as New from Date","Definir Produto como Novo a partir da Data"
+"Set Product as New to Date","Definir Produto como Novo até a Data"
+Cost,Custo
+"Special Price","Preço Especial"
+"Front-end Product Link","Link do Produto Front-end"
+Availability,Disponibilidade
+"Creation Date","Data de Criação"
+"Special Price From Date","Preço especial a partir da data"
+"Special Price To Date","Preço especial até a data"
+"Last Modified Date","Data da Última Modificação"
+"Related Products","Produtos Relacionados"
+"Up Sells","Venda Incrementada"
+"Cross Sells","Venda Cruzada"
+"Low Stock","Estoque Baixo"
+"Tier Price","Nível de`Preço"
+Backorders,Pedidos em Atraso
+Weight,Peso
+"Qty Sold","Qtd Vendida"
+"Save Changes","Salvar Alterações"
+"Cancel","Cancelar"
+Search by keyword,Pesquisar por palavra-chave
