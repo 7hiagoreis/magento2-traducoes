@@ -21,7 +21,7 @@ Exemplos:
 
 1. Faça o download ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/magento2-traducoes.git
+   git clone https://github.com/7hiagoreis/magento2-traducoes.git
 Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou vendor, se for extensão de terceiros).
 
 Execute os comandos do Magento:
@@ -31,6 +31,8 @@ Copiar
 Editar
 bin/magento cache:flush
 bin/magento setup:static-content:deploy pt_BR
+
+
 💡 Dica
 Você pode automatizar esse processo com symlinks ou scripts para facilitar atualizações futuras.
 
