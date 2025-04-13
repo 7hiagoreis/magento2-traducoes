@@ -1,0 +1,79 @@
+"Successful! Test again?","Successful! Test again?"
+"Validation failed! Test again?","Validation failed! Test again?"
+"Required param ""%1"" wasn't provided","Required param ""%1"" wasn't provided"
+"Please, recheck your API key","Please, recheck your API key"
+"Something went wrong. Check logs for additional info.","Something went wrong. Check logs for additional info."
+"Submitted Data is no longer available.","Submitted Data is no longer available."
+"Authentication required","Authentication required"
+"Form is no longer available.","Form is no longer available."
+"The answer with the specified ID was not found for this user","The answer with the specified ID was not found for this user"
+"My Submitted Forms","My Submitted Forms"
+"Invalid request. Please refresh the page.","Invalid request. Please refresh the page."
+"Customer with id %1 doesn't have requested answer","Customer with id %1 doesn't have requested answer"
+"List %1 does not exist","List %1 does not exist"
+Pending,Pending
+Sent,Sent
+Submitted,Submitted
+Edited,Edited
+"Deleted by Customer","Deleted by Customer"
+"Form Closed","Form Closed"
+"%1 (Default)","%1 (Default)"
+"Use System Config Value","Use System Config Value"
+"-- Please select --","-- Please select --"
+No,No
+Yes,Yes
+"Unable to send email. Original error: %1%2%3","Unable to send email. Original error: %1%2%3"
+Guest,Guest
+"Answer is not found","Answer is not found"
+"Removing data is not allowed","Removing data is not allowed"
+Status,Status
+"Customer email for answer with id=%1 wasn't added to Mailchimp list. Can not retrieve email.","Customer email for answer with id=%1 wasn't added to Mailchimp list. Can not retrieve email."
+"If `Show Submitted Forms in Customer Account` setting is enabled, customers will be able to see the form title in their account.","If `Show Submitted Forms in Customer Account` setting is enabled, customers will be able to see the form title in their account."
+"Renderer must implements %1","Renderer must implements %1"
+Back,Back
+"Submitted Data #%1","Submitted Data #%1"
+Edit,Edit
+Delete,Delete
+"Form entry has been updated.","Form entry has been updated."
+"%form_title entry was edited by %customer_full_name you can view it via the following ","%form_title entry was edited by %customer_full_name you can view it via the following "
+link,link
+"Submitted Data:","Submitted Data:"
+"Form Entry has been removed.","Form Entry has been removed."
+"%form_title entry was removed by %customer_full_name","%form_title entry was removed by %customer_full_name"
+Form,Form
+Updated,Updated
+"Admin Response","Admin Response"
+Action,Action
+Show,Show
+"per page","per page"
+"Are you sure you would like to delete this submitted data?","Are you sure you would like to delete this submitted data?"
+"This form can be submitted only once. You will not be able to re-submit it.","This form can be submitted only once. You will not be able to re-submit it."
+"Customer Account","Customer Account"
+"Show Submitted Forms in Customer Account","Show Submitted Forms in Customer Account"
+"Scope is tied to Magento Share Customer Accounts setting value","Scope is tied to Magento Share Customer Accounts setting value"
+"When enabled, customers will be able to see the form title in their account.","When enabled, customers will be able to see the form title in their account."
+"Disable for Customer Groups","Disable for Customer Groups"
+"Allow Сustomers to Edit Submitted Data","Allow Сustomers to Edit Submitted Data"
+"Notify When Customer Edits Data","Notify When Customer Edits Data"
+"Data Edit Template","Data Edit Template"
+"Allow Customers to Delete Submitted Data","Allow Customers to Delete Submitted Data"
+"Notify When Customer Removes Data","Notify When Customer Removes Data"
+"Data Removal Template","Data Removal Template"
+Mailchimp,Mailchimp
+Enabled,Enabled
+"API Key","API Key"
+"Updated at","Updated at"
+"Mailchimp List","Mailchimp List"
+"Customers' email will be added to the selected Mailchimp list after they submit the form.
+                    Email Address Field value will be used for the guest submissions.","Customers' email will be added to the selected Mailchimp list after they submit the form.
+                    Email Address Field value will be used for the guest submissions."
+"Enable Double Opt-In","Enable Double Opt-In"
+"Customers will receive a confirmation email from Mailchimp to verify their email. They will be added to the selected Mailchimp list only after the confirmation.","Customers will receive a confirmation email from Mailchimp to verify their email. They will be added to the selected Mailchimp list only after the confirmation."
+"Form Contains Sensitive Data","Form Contains Sensitive Data"
+"
+                        When customer deletes their submitted data from this form,
+                         it will be removed in the backend as well.
+                    ","
+                        When customer deletes their submitted data from this form,
+                         it will be removed in the backend as well.
+                    "
