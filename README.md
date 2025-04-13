@@ -26,7 +26,10 @@ Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou ve
 3. Execute os comandos do Magento:
 
 ```bash bin/magento cache:flush 
-   bin/magento setup:static-content:deploy pt_BR -f ```
+   bin/magento setup:static-content:deploy pt_BR -f
+
+
+
 
 
 💡 Dica
@@ -37,3 +40,4 @@ Pull requests são bem-vindos! Se quiser contribuir com correções ou novas tra
 
 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
