@@ -6,22 +6,23 @@ Este repositório contém arquivos de tradução em português do Brasil para o 
 
 Os arquivos seguem a estrutura:
 
-/< Vendor >/< Module >/i18n/pt_BR.csv
+< magento_root_dir >/app/i18n/Magento_TraducaoBrasil/pt_br/pt_BR.csv (Arquivo de Tradução Base)
 
+< magento_root_dir >/vendor/amasty/< module_name >/i18n/pt_BR.csv (Exemplo para traduzir um módulo Amasty)
 
 ### Exemplos:
 - `Magento/Catalog/i18n/pt_BR.csv`
-- `Amasty/Blog/i18n/pt_BR.csv`
-- `Amasty/SEO/i18n/pt_BR.csv`
+- `vendor/amasty/Blog/i18n/pt_BR.csv`
+- `vendor/amasty/SEO/i18n/pt_BR.csv`
 
 ## 🛠 Como usar
 
 1. Faça o download ou clone o repositório:
    ```bash
    git clone https://github.com/7hiagoreis/magento2-traducoes.git
-Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou vendor, se for extensão de terceiros).
 
-2. Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou vendor, se for extensão de terceiros).
+
+2. Copie os arquivos para seus respectivos módulos dentro da pasta app/i18n (ou vendor, se for extensão de terceiros ou módulos instalados via composer).
 
 3. Execute os comandos do Magento:
 
