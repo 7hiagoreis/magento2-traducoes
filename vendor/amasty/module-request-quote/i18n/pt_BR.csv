@@ -1,0 +1,442 @@
+N/A,N/D
+"Submit Quote","Enviar Cotação"
+"Are you sure you want to cancel this quote?","Tem certeza que deseja cancelar esta cotação?"
+Cancel,Cancelar
+"Billing Address","Endereço de Cobrança"
+"Order Comment","Comentário do Pedido"
+"Please select a customer","Selecione um cliente"
+"Create New Customer","Criar Novo Cliente"
+"Account Information","Informação da Conta"
+"Edit Quote #%1","Editar Cotação #%1"
+"Create New Quote for %1 in %2","Criar Nova Cotação para %1 em %2"
+"Create New Quote in %1","Criar Nova Cotação em %1"
+"Create New Quote for %1","Criar Nova Cotação para %1"
+"Create New Quote for New Customer","Criar Nova Cotação para Novo Cliente"
+"Items Quoted","Itens Cotados"
+"This product is disabled.","Este produto está desativado."
+"Buy %1 for price %2","Compre %1 pelo preço %2"
+"Item ordered qty","Quantidade pedida do item"
+"%1 with %2 discount each","%1 com %2 de desconto cada"
+"%u1 for %2","%1 para %2"
+"* - Enter custom price including tax","* - Insira o preço personalizado, incluindo impostos"
+"* - Enter custom price excluding tax","* - Insira o preço personalizado sem impostos"
+Configure,Configurar
+"This product does not have any configurable options","Este produto não possui opções configuráveis"
+"Newsletter Subscription","Assinatura de Newsletter"
+"Please select products","Selecione os produtos"
+"Add Selected Product(s) to Quote","Adicionar Produto(s) Selecionado(s) à Cotação"
+ID,ID
+Product,Produto
+SKU,SKU
+Price,Preço
+Select,Selecione
+Quantity,Quantidade
+"Shipping Address","Endereço de Entrega"
+"Shipping Method","Método de Envio"
+"Please select a store","Selecione uma loja"
+"Quote Totals","Totais da Cotação"
+"Shipping Incl. Tax (%1)","Frete incl. Imposto (%1)"
+"Shipping Excl. Tax (%1)","Envio Excl. Imposto (%1)"
+"Save Quote","Salvar Cotação"
+"Quote Comment","Comentário de Cotação"
+"Please correct the parent block for this block.","Corrija o bloco pai para este bloco."
+" [deleted]"," [apagada]"
+"Quote Items","Itens da Cotação"
+"Item qty","Quantidade do Item"
+"Enter custom price including tax","Insira o preço personalizado, incluindo impostos"
+"Enter custom price excluding tax","Insira o preço personalizado sem impostos"
+Information,Informação
+"Quote Information","Informação da Cotação"
+"Quote Edit","Editar Cotação"
+Subtotal,Subtotal
+Tax,Imposto
+Shipping,Envio
+"Grand Total","Grand Total"
+"Cancel / Close","Cancelar / Fechar"
+Approve,Aprovar
+"Convert To Order","Converter para Pedido"
+"Download PDF","Download PDF"
+Edit,Editar
+"Incl. Tax","Incl. Impostos"
+"Excl. Tax","Excl. Impostos"
+"Invalid parent block for this block","Bloco pai inválido para este bloco"
+"Quote View","Visualização das Cotações"
+"Please update Amasty Base module. Re-upload it and replace all the files.","Atualize o módulo Amasty Base. Faça o upload novamente e substitua todos os arquivos."
+"Add to Quote","Adicionar à Cotação"
+"Request Quote closed","Solicitação de Cotação Fechada"
+"Can't close Request Quote","Não é possível fechar Solicitação de Cotação"
+"My Quotes","Minhas Cotações"
+"Quote # %1","Cotação # %1"
+Sales,Vendas
+Quotes,Cotações
+"This quote no longer exists.","Esta cotação não existe mais."
+"Your session has been expired. Please try again","Sua sessão expirou. Por favor, tente novamente"
+"You have not approved the quote.","Você não aprovou a cotação."
+"You approved the quote.","Você aprovou a cotação."
+"Please specify quote items.","Especifique os itens da cotação."
+"You have not close the quote.","Você não fechou a citação."
+"You closed the quote.","Você fechou a cotação."
+"You have not closed the quote.","Você não fechou a cotação."
+"The quote item ID needs to be received. Set the ID and try again.","O ID do item da cotação precisa ser recebido. Defina o ID e tente novamente."
+"The quote item needs to be loaded. Load the item and try again.","O item de cotação precisa ser carregado. Carregue o item e tente novamente."
+"Something went wrong","Algo deu errado"
+"Requested quote does not exist","O orçamento solicitado não existe"
+"Order does not exist","O pedido não existe"
+"New Quote","Nova Cotação"
+"You created the quote.","Você criou a cotação."
+"Quote saving error: %1","Erro ao salvar a cotação: %1"
+"Edit Quote","Editar Cotação"
+"Quote item id is not received.","O id do item da cotação não foi recebido."
+"Quote item is not loaded.","O item da cotação não foi carregado."
+"You updated the quote.","Você atualizou a cotação."
+"%1 quote(s) cannot be updated.","%1 cotação(ões) não pode(m) ser atualizada(s)."
+"You cannot update the quote(s).","Você não pode atualizar a(s) cotação(ões)."
+"We updated %1 quote(s).","Atualizamos %1 cotação(ões)."
+"%1 quote(s) cannot be canceled.","%1 cotação(ões) não pode(m) ser cancelada(s)."
+"You cannot cancel the quote(s).","Você não pode cancelar a(s) cotação(ões)."
+"We canceled %1 quote(s).","Cancelamos %1 cotação(ões)."
+"You can not create the order.","Você não pode criar o pedido."
+"An error occurred. The PDF was not downloaded.","Ocorreu um erro. O PDF não foi baixado."
+"Exception occurred during order load","Ocorreu uma exceção durante o carregamento do pedido"
+"You must login or register to add items to your quote cart.","Você deve fazer login ou se registrar para adicionar itens ao seu carrinho de cotações."
+"You added %1 to your quote cart.","Você adicionou %1 ao Carrinho de Cotações."
+"We can't add this item to your quote cart right now.","Não podemos adicionar este item ao seu Carrinho de Cotações no momento."
+"Out of stock","Fora de Estoque"
+"We can't add this item to your shopping cart right now.","Não podemos adicionar este item ao seu carrinho de compras agora."
+"We can't find the quote item.","Não conseguimos encontrar o item da cotação."
+"We cannot configure the product.","Não podemos configurar o produto."
+"We can't remove the item.","Não podemos remover o item."
+"Quote Cart","Carrinho de Cotação"
+"%1 was updated in your quote cart.","%1 foi atualizado em seu carrinho de cotações."
+"We can't update the item right now.","Não podemos atualizar o item no momento."
+"We can't update the shopping cart.","Não podemos atualizar o carrinho de compras."
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Você deve confirmar sua conta. Verifique seu e-mail para o link de confirmação ou <a href=""%1"">clique aqui</a> para gerar um novo."
+"The account is locked.","A conta está bloqueada."
+"It is possible to process one Quote at a time. You have already added Quote in your cart. Please proceed to checkout.","É possível processar apenas uma cotação por vez. Você já adicionou uma cotação ao carrinho. Por favor, finalize a compra."
+"Something wrong.","Algo deu errado."
+"This is approved quote.","Esta é uma cotação aprovada."
+"Requested quote does not exist for current customer","A cotação solicitada não existe para o cliente atual"
+"Login for quote","Faça login para visualizar a cotação"
+"We can't save the cron expression.","Não foi possível salvar a expressão cron."
+"To create a message, you need it's prototype...","Para criar uma mensagem, é necessário seu protótipo..."
+"To use PDF customizer, please install the library dompdf/dompdf since it is required for proper PDF customizer functioning. To do this, run the command ""composer require dompdf/dompdf"" in the main site folder.","Para usar o personalizador de PDF, instale a biblioteca dompdf/dompdf. Para isso, execute o comando \"composer require dompdf/dompdf\" na pasta raiz do site."
+T,T
+"The Gift Card can not be converted from shopping cart to quote.","O vale-presente não pode ser convertido do carrinho para a cotação."
+"One or several Products can not be converted from shopping cart to quote.","Um ou mais produtos não podem ser convertidos do carrinho para a cotação."
+"Additional Discount in amount of %1 was applied.","Desconto adicional no valor de %1 foi aplicado."
+"Additional Surcharge in amount of %1 was applied.","Taxa adicional no valor de %1 foi aplicada."
+"Shipping Address: ","Endereço de Entrega: "
+"Billing Address: ","Endereço de Cobrança: "
+"We could not add a product to cart by the ID ""%1"".","Não foi possível adicionar o produto ao carrinho com o ID \"%1\"."
+Custom,Custom
+"The qty value is required to update quote item.","O valor de quantidade é obrigatório para atualizar o item da cotação."
+"-- Empty --","-- Vazio --"
+"Not Logged In","Não Conectado"
+"Customer Street","Endereço do Cliente"
+"Customer Region","Região do Cliente"
+"Customer Postcode","CEP do Cliente"
+"Customer Country","País do Cliente"
+"Customer Telephone","Telefone do Cliente"
+"Quote Number","Número da Cotação"
+"Quote Status","Status da Cotação"
+"Quote Date","Data da Cotação"
+"Quote Expiry Date","Validade da Cotação"
+"Has Shipping Info","Possui Informações de Entrega"
+"Shipping Street","Endereço de Entrega"
+"Shipping City","Cidade de Entrega"
+"Shipping Region","Região de Entrega"
+"Shipping Postcode","CEP de Entrega"
+"Shipping Country","País de Entrega"
+"Shipping Telephone","Telefone de Entrega"
+"Product Grid","Grade de Produtos"
+"Store Phone","Telefone da Loja"
+Pending,Pendente
+Approved,Aprovada
+Complete,Completa
+Canceled,Cancelada
+Expired,Expirada
+"Created from admin","Criado pelo administrador"
+New,Novo
+Show,Exibir
+Hide,Ocultar
+Yes(customize),Sim(personalizar)
+Yes(instantly),Sim(imediatamente)
+No,Não
+"Load customer amasty quote error","Erro ao carregar cotação do cliente Amasty"
+"It is not possible to edit items quantity of the approved Quote.","Não é possível editar a quantidade de itens da Cotação Aprovada."
+"It is not possible to edit items qty of the approved Quote.","Não é possível editar a quantidade de itens da Cotação Aprovada."
+"Can't update item which moved from quote request.","Não é possível atualizar item movido da solicitação de cotação."
+"Amasty 'Request a Quote' form","Formulário 'Solicitar Cotação' da Amasty"
+"Clone as Quote","Clonar como Cotação"
+View,Visualizar
+Ordered,Pedido realizado
+Invoiced,Faturado
+Shipped,Enviado
+Refunded,Reembolsado
+"Quote Comments","Comentários da Cotação"
+"Configure Shipping","Configurar Frete"
+"Address Information","Informações de Endereço"
+"Shipping Information","Informações de Envio"
+"Quote Total","Total da Cotação"
+"Quote History","Histórico da Cotação"
+"Quote Currency:","Moeda da Cotação:"
+"Same As Billing Address","Igual ao Endereço de Cobrança"
+"Select from existing customer addresses:","Selecionar de endereços existentes do cliente:"
+"Add New Address","Adicionar Novo Endereço"
+"Save in address book","Salvar no catálogo de endereços"
+"You don't need to select a shipping address.","Você não precisa selecionar um endereço de envio."
+Qty,Qtd
+"Row Subtotal","Subtotal da Linha"
+Action,Ação
+"No ordered items","Nenhum item encomendado"
+"Update Items and Quantities","Atualizar Itens e Quantidades"
+"Total %1 product(s)","Total de %1 produto(s)"
+Subtotal:,Subtotal:
+"Tier Pricing","Preço por Nível"
+"Custom Price","Preço Personalizado"
+"Please select","Por favor, selecione"
+Remove,Remover
+Applied,Aplicado
+surcharge,acréscimo
+discount,desconto
+"Subscribe to Newsletter","Assinar Newsletter"
+"Click to change shipping method","Clique para alterar o método de envio"
+"Chosen Shipping Address and Method are allowed to be modified on checkout","Endereço e método de envio escolhidos podem ser modificados no checkout"
+"Sorry, no quotes are available for this order.","Desculpe, nenhuma cotação está disponível para este pedido."
+"Get shipping methods and rates","Obter métodos e tarifas de envio"
+"You don't need to select a shipping method.","Você não precisa selecionar um método de envio."
+"Grand Total Excl. Tax","Total Geral s/ Impostos"
+"Grand Total Incl. Tax","Total Geral c/ Impostos"
+"Subtotal (Excl. Tax)","Subtotal (s/ Impostos)"
+"Subtotal (Incl. Tax)","Subtotal (c/ Impostos)"
+"Customer Name: %1","Nome do Cliente: %1"
+"Created From: %1","Criado a partir de: %1"
+"Gift Message","Mensagem de Presente"
+From:,De:
+To:,Para:
+Message:,Mensagem:
+"Discount (%1)","Desconto (%1)"
+Discount,Desconto
+"Shipping &amp; Handling","Frete e Manuseio"
+"Payment &amp; Shipping Information","Informações de Pagamento e Envio"
+"Order Total","Total do Pedido"
+"Order History","Histórico do Pedido"
+"Order Currency:","Moeda do Pedido:"
+Remarks,Observações
+"Customer Remarks","Observações do Cliente"
+"Admin Remarks","Observações do Administrador"
+"Quote & Account Information","Quote & Account Information"
+"Quote Date (%1)","Data da Cotação (%1)"
+Status,Status
+"Expiry Date","Expiry Date"
+"Reminder Date","Reminder Date"
+"Created From","Created From"
+"Link to the New Quote","Link para a Nova Cotação"
+"Link to the Previous Quote","Link para a Cotação Anterior"
+"Placed from IP","Colocado através do IP"
+"%1 / %2 rate:","%1 / %2 avaliar:"
+"Edit Customer","Editar Cliente"
+"Customer Name","Nome do Cliente"
+Email,Email
+"Customer Group","Grupo de Clientes"
+"Account Created","Conta Criada"
+"Orders Total","Total do Pedido"
+"Additional Discount (%)","Desconto Adicional (%)"
+"Additional Surcharge (%)","Sobretaxa Adicional (%)"
+Cost,Custo
+"Customer Note:","Comentário do Cliente:"
+"Administrator Note:","Comentário do Administrador:"
+"Add Note","Adicionar Observação"
+"records found","registros encontrados"
+selected,selecionado
+"per page","por pagina"
+"Previous page","Página anterior"
+"of %1","de %1"
+"Next page","Próxima Página"
+Customer,Cliente
+"Notification Not Applicable","Notificação Não Aplicável"
+Notified,Notificado
+"Not Notified","Não Notificado"
+"Notes for this Quote","Observações para esta Cotação"
+"Comment added","Comentário Adicionado"
+"Remarks for this Quote","Observações para esta Cotação"
+"Total Due","Total Devido"
+"Total Paid","Total Pago"
+"Total Refunded","Total Reembolsado"
+"Total Tax","Taxa Total"
+"Gift Message for the Entire Order","Mensagem de Presente para Todo o Pedido"
+"From Name","De (Nome)"
+"To Name","Para (Nome)"
+"Order Id","Id do Pedido"
+"Shipping &amp; Handling Information","Envio & Manipulando Informação"
+"No shipping information available","Nenhuma informação de envio disponível"
+"Applied discount","Desconto aplicado"
+"Applied surcharge","Sobretaxa aplicada"
+"Items Ordered","Items Ordered"
+"Product Name","Nome do Produto"
+"Original Price","Preço Original"
+"Requested Price","Preço Solicitado"
+"Approved Price","Preço Aprovado"
+"Discount Amount","Valor do Desconto"
+Delete,Excluir
+"Сustomer Remarks:","Observações do Cliente:"
+"Administrator Remarks:","Observações do Administrador:"
+"Quote #","Cotação #"
+Date,Data
+Actions,Ações
+"Move to Cart","Mover para o Carrinho"
+"You have placed no quotes.","Você não solicitou nenhuma cotação =("
+"Order ID","ID do Pedido"
+"# %1","# %1"
+"Move to Shopping Cart","Mover para o Carrinho de Compras"
+"Move to Checkout","Move to Checkout"
+"Creation Date:","Creation Date:"
+"Expiry Date:","Expiry Date:"
+"Shopping Cart Items","Itens do Carrinho de Compras"
+Item,Item
+"Continue Shopping","Continuar Cotando"
+"Clear Quote","Limpar Cotação"
+"Update Quote","Atualizar Cotação"
+"See price before order confirmation.","Consulte o preço antes da confirmação do pedido."
+"What's this?","O que é isso?"
+"You have no items in your quote cart.","Você não tem itens em seu carrinho de cotações."
+"Click <a href=""%1"">here</a> to continue shopping.","Clique <a href=""%1"">aqui</a> para continuar cotando."
+"Request a Quote","Solicite um Orçamento"
+"My Quote","Minhas Cotações"
+"Customer Email","Email do Cliente"
+"There are no quote requests.","Não há solicitações de orçamento."
+Items,Itens
+"Print receipt","Imprimir Recibo"
+"Thank you for your interest!","Obrigado pelo seu interesse!"
+"Your Quote Request # is: %1.","Seu Pedido de Cotação é: #%1."
+"Your Quote Request # is: <span>%1</span>.","Seu Pedido de Cotação é: #<span>%1</span>."
+"We'll email you a Quote Request confirmation email with a link to track progress.","Enviaremos um e-mail de confirmação de solicitação de orçamento com um link para acompanhar o progresso."
+"Email alert for new quote requests","Alerta de email para novos pedidos de orçamento"
+"Hello,","Olá,"
+"This is an automatic notification about a new quote request(s) made. ","Esta é uma notificação automática sobre uma nova solicitação de cotação feita. "
+Quotes:,Cotações:
+"Thank you!","Agradecemos!"
+"Email alert for approved quote requests","Alerta de email para solicitações de orçamento aprovadas"
+"Hello %name,","Olá %name,"
+"Your quote request from %store_name has been approved. You can check the status of your quote request and proceed to checkout by ","Sua solicitação de orçamento da %store_name Foi aprovada. Você pode verificar o status da sua solicitação de orçamento e prosseguir com a verificação por "
+"logging into your account","acessando a sua conta"
+"Email alert for canceled quote requests","Alerta de email para solicitações de orçamento canceladas"
+"Your quote request from %store_name has been canceled.  You can check the status of your quote request by ","Your quote request from %store_name has been canceled.  You can check the status of your quote request by "
+"Unfortunately your quote has been declined. ","Unfortunately your quote has been declined. "
+"Email alert for modified quote requests","Email alert for modified quote requests"
+"Your quote request from %store_name has been modified.  You can check the status of your quote request by  ","Your quote request from %store_name has been modified.  You can check the status of your quote request by  "
+"Email alert for expired quote requests","Alerta de email para solicitações de orçamento expiradas"
+"Your quote request from %store_name has been expired. You can check the status of your quote request by ","Sua solicitação de orçamento de %store_name Expirou. Você pode verificar o status da sua solicitação de orçamento por "
+"Quote request for %store_name has been created. You can check the status of your quote request and proceed to checkout by ","Pedido de cotação para %store_name foi criado. Você pode verificar o status da sua solicitação de orçamento e prosseguir com a verificação por "
+"Quote #%increment_id","Cotação #%increment_id"
+"Issued on %created_at","Emitida em %created_at"
+"Your quote request from %store_name=$store.getFrontendName() has been modified.  You can check the status of your quote request by  ","Sua solicitação de orçamento da %store_name=$store.getFrontendName() foi modificado.  Você pode verificar o status da sua solicitação de orçamento por  "
+"Email alert for promotion quote requests","Alerta de email para solicitações de orçamento de promoção"
+"Special promotion. ","Promoção Especial. "
+Click,Clique
+here,aqui
+"to view","para ver"
+"Email alert for reminder quote requests","Alerta de email para lembretes de solicitações de orçamento"
+"Hello %customer_name,","Hello %customer_name,"
+"Proposal is about to expire. Please review the price proposal and move","A proposta está prestes a expirar. Reveja a proposta de preço e mudança"
+"your quote","sua cotação"
+"to the cart to finalize the purchase!","ao carrinho para finalizar a compra!"
+"Email alert for submitted quote request","O Alerta de Email para a Solicitação de Orçamento foi Enviado"
+"Thank you for your quote request from %store_name.","Obrigado pela sua solicitação de cotação na %store_name."
+"You can check the status of your quote request by <a href=""%view_url"">logging into your account</a>.","Você pode verificar o status da sua solicitação de cotação <a href=""%view_url"">acessando sua conta</a>."
+"Your Quote Request <span class=""no-link"">#%increment_id</span>","Seu Pedido de Cotação <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Inserido em <span class=""no-link"">%created_at</span>"
+"Email Address","Endereço de Email"
+Password,Senha
+"You already have an account with us. Sign in or continue as guest.","Você já tem uma conta cadastrada conosco. Acesse a sua conta ou continue como visitante."
+Login,Conectar
+"Forgot Your Password?","Esqueceu sua Senha?"
+"Cart Subtotal","Subtotal do Carrinho"
+Close,Fechado
+of,de
+"Item in Cart","Item no Carrinho"
+"Items in Cart","Itens no Carrinho"
+"My Quote Cart","Carrinho de Cotações"
+"Recently added item(s)","Item(ns) adicionado(s) recentemente"
+"Edit Order","Editar Pedido"
+Ok,Ok
+"Add Products","Adicionar Produtos"
+"You have item changes","Você tem mudanças de itens"
+Adding...,Adicionando...
+"Are you sure you would like to remove this item from the quote cart?","Tem certeza de que deseja remover este item do carrinho de cotações?"
+Operations,Operações
+"Amasty Quotes","Amasty Cotações"
+Create,Criar
+Cancel/Close,Cancelar/Fechar
+Order,Pedido
+"Create from Magento Quote","Criar a partir da Cotação do Magento"
+"Create Quote from Order","Criar Cotação do Pedido"
+"Amasty Request a Quote","Amasty Solicitações de Orçamento"
+General,Geral
+"Enable 'Request a Quote'","Habilitar 'Solicitações de Orçamento'"
+"'Add to Quote' button on Product Page","Botão 'Adicionar à Cotação' na Página do Produto"
+"'Add to Quote' button on Category Page","Botão 'Adicionar à Cotação' na Página da Categoria"
+"Disable Quotation for Categories","Desativar Cotação para Categorias"
+"'Add to Quote' button will be hidden for each product from the selected categories. This setting is applied to product list and product page.","'O botão Adicionar à Cotação ficará oculto para cada produto das categorias selecionadas. Esta configuração é aplicada à lista de produtos e à página de produtos."
+"Allow Quote Request for Customer Groups","Allow Quote Request for Customer Groups"
+"If 'Not Logged In' option is chosen, guest users will insert email addresses upon quote submission and accounts will be created automatically.","Se a opção 'Não Conectado' for escolhida, os usuários convidados inserirão endereços de email no envio da cotação e as contas serão criadas automaticamente."
+"Inform Guests","Informar os Convidados"
+"Show 'Login for quote' button for guests","Exibir o botão 'Login para Orçamento' para convidados"
+"Button Text","Botão de Texto"
+"Allow to change Price in Quote Cart","Permitir a Alteração do Preço no Carrinho de Cotação"
+"Approve Quotes Automatically","Aprovar Cotações Automaticamente"
+"Set 'Yes' to approve quote automatically if the overall discount is less than certain % amount","Defina 'Sim' para aprovar a cotação automaticamente se o desconto geral for inferior a uma determinada % porcentagem"
+"if Quote Discount is Less than (%)","se o desconto da cotação for menor que (%)"
+"The discount is calculated for the entire quote (not for separate products). Note: discount calculation is based on prices excluding tax.","O desconto é calculado para toda a cotação (não para produtos separados). Nota: O cálculo do desconto é baseado em preços sem impostos."
+"Cost Attribute","Atributo de Custo"
+"Label for Custom Shipping Method","Etiqueta para Método de Envio Personalizado"
+"Specify the name of custom shipping method.","Especifique o nome do método de envio personalizado."
+"Expiration & Reminder","Vencimento & Lembrete"
+"Quote Expiration","Validade da Cotação"
+"Set default period in days for quote to be valid once approved. For zero and higher this value can be set for each quote individually. Keep empty to disable this feature.","Defina o período padrão em dias para que a cotação seja válida depois de aprovada. Para zero e mais, esse valor pode ser definido para cada cotação individualmente. Mantenha vazio para desativar este recurso."
+"Send Reminder Email after Day(s)","Enviar Lembrete por email Após o(s) dia(s)"
+"Set default period in days to send reminder once quote approved. For zero and higher this value can be set for each quote individually. Keep empty to disable reminder.","Defina o período padrão em dias para enviar um lembrete assim que a cotação for aprovada. Para zero e mais, esse valor pode ser definido para cada cotação individualmente. Mantenha vazio para desativar o lembrete."
+"Admin Notifications","Notificações do Administrador"
+"Send Email Reports for New Quote Requests","Enviar Relatórios de Email para Novas Solicitações de Cotação"
+Frequency,Frequência
+"Start Time","Horário de Início"
+"Admin Email Address","Endereço de Email do Administrador"
+"Input an email address, the extension will send notifications to.","Insira um endereço de email para o qual a extensão enviará notificações."
+"Email Template to Notify Admin","Modelo de Email para Notificar o Administrador"
+"Select the appropriate template for the email notifications.","Selecione o modelo apropriado para as notificações por email."
+"Email Sender","Envio de Email"
+"Customer Notifications","Notificações dos Clientes"
+"Email Template for Submitted Quote","Modelo de E-mail para Cotação Enviada"
+"Email Template for Approved Quote","Modelo de E-mail para Orçamento Aprovado"
+"Email Template for Modified Quote","Modelo de E-mail para Cotação Modificada"
+"Email Template for Canceled Quote","Modelo de E-mail para Cotação Cancelada"
+"Email Template for Expired Quote","Modelo de E-mail para Cotação Expirada"
+"Email Template for Reminder","Modelo de E-mail para Lembrete"
+PDF,PDF
+"Automatically Attach PDF File to Approved Quote Notification","Anexar Arquivo PDF Automaticamente à Notificação de Cotação Aprovada"
+"Template Content","Conteúdo do Modelo"
+Name,Nome
+Phone,Telefone
+"ZIP/Post Code","Código Postal (CEP)"
+Country,País
+State/Province,Estado/Província
+"Signed-up Point","Ponto de Inscrição"
+Website,Website
+"Product Price","Preço do Produto"
+"Quote Price","Preço da Cotação"
+"Row Total","Total da Linha"
+"Create New Quote","Criar Nova Cotação"
+"All Store Views","Todas as Visualizações da Loja"
+"Purchase Point","Pontos de Compra"
+"Purchase Date","Data da Compra"
+"Grand Total (Base)","Grand Total (Base)"
+"Quote Summary","Resumo da Cotação"
+FPT,FPT
+"Quote Total Excl. Tax","Cotação Total Excl. Imposto"
+"Quote Total Incl. Tax","Cotação Total incl. Imposto"
+"Enter your details","Insira as suas informações"
+"First Name","Nome"
+"Last Name","Sobrenome"
+"We'll send notifications about the quote to the inserted email address.
+                                                                        Please kindly note that new account will be created automatically after quote submission.","Enviaremos notificações sobre a cotação para o endereço de e-mail inserido. Observe que uma nova conta será criada automaticamente após o envio da cotação."                                                                      
+"Your quote request has been received!","A sua solicitação de orçamento foi recebida!"
