@@ -28,7 +28,7 @@ Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou ve
 ```bash bin/magento cache:flush 
    bin/magento setup:static-content:deploy pt_BR -f
 
-
+```
 
 
 
