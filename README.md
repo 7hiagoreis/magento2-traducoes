@@ -6,7 +6,7 @@ Este repositório contém arquivos de tradução em português do Brasil para o 
 
 Os arquivos seguem a estrutura:
 
-/<Vendor>/<Module>/i18n/pt_BR.csv
+/< Vendor >/< Module >/i18n/pt_BR.csv
 
 
 ### Exemplos:
