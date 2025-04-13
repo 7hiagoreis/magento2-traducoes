@@ -1,0 +1,642 @@
+"CHECKOUT FIELDS CONFIGURATION","CONFIGURAÇÃO DOS CAMPOS DE CHECKOUT"
+"Additional Options","Opções Adicionais"
+"Customer Information","Informações do Cliente"
+"Order Summary","Resumo do Pedido"
+"Payment Method","Forma de Pagamento"
+"Shipping Method","Modo de Envio"
+"Store View:","Visualização da Loja:"
+"Customer Group:","Grupo de Cliente:"
+Period:,Periodo:
+From:,De:
+To:,Para:
+Today,Hoje
+"Last 7 days","Últimos 7 dias"
+"Last 30 days","Últimos 30 dias"
+Overall,No geral
+Custom,Personalizado
+"All Customer Groups","Todos os Grupos de Clientes"
+"All Stores","Todas as Lojas"
+Refresh,Atualizar
+Delivery,Entrega
+"Delivery Date","Data de Entrega"
+"Delivery Time Interval","Intervalo do Tempo de Entrega"
+"Delivery Comment","Comentário de Entrega"
+"Please update your Magento to version 2.2 or newer to make this setting available.","Atualize o seu Magento para a versão 2.2 ou mais recente para tornar esta configuração disponível."
+"Please update Amasty Base module. Re-upload it and replace all the files.","Atualize o módulo Amasty Base. Faça o upload novamente e substitua todos os arquivos."
+"If you want to perfrom a more complex configuration and need to have an advanced control over your order attributes, go to the settings page of Amasty Order Attributes module by clicking <a target='_blank' href='%1'>here</a>.","If you want to perfrom a more complex configuration and need to have an advanced control over your order attributes, go to the settings page of Amasty Order Attributes module by clicking <a target='_blank' href='%1'>here</a>."
+"If you need a wider range of configurable attributes available for you to customize and fine-tune your checkout page, please get our extension 'Order Attributes'. Learn more <a target='_blank' href='%1'>here</a>.","If you need a wider range of configurable attributes available for you to customize and fine-tune your checkout page, please get our extension 'Order Attributes'. Learn more <a target='_blank' href='%1'>here</a>."
+"You can set Terms and Conditions <a target='_blank' href='%1'>here</a>.","You can set Terms and Conditions <a target='_blank' href='%1'>here</a>."
+"Gift wrap %1","Embrulho para presente %1"
+"Gift Wrap","Embrulho para Presente"
+"Delivery Time","Tempo de Entrega"
+System,Sistema
+Item,Item
+Price,Preço
+"See price before order confirmation.","Consulte o preço antes da confirmação do pedido."
+"What's this?","O que é isso?"
+"Incl. Tax","Incl. Tax"
+"Excl. Tax","Excl. Tax"
+Qty,Qtd
+Minus,Menos
+Plus,Mais
+"Move to Wish List","Mover para Lista de Desejos"
+"Edit item parameters","Editar os parâmetros do item"
+Edit,Editar
+"Remove item","Remover item"
+Delete,Excluir
+"Products Requiring Attention","Produtos que Requerem Atenção"
+"Remove All","Remover Tudo"
+"Add to Cart","Adicionar ao Carrinho"
+File,Arquivo
+"Choose File","Escolher Arquivo"
+"No file selected.","Nenhum arquivo selecionado."
+Remove,Remover
+"File extensions allowed: .csv","Extensões de arquivo permitidas: .csv"
+"Your csv file must include ""sku"" and ""qty"" columns.","Seu arquivo csv deve incluir as colunas ""sku"" e ""qty""."
+"Order by SKU","Ordenar por SKU"
+"Add Row","Adicionar Linha"
+SKU,SKU
+"Go back to product details","Voltar para os detalhes do produto"
+None,Nenhum
+"Choose a selection...","Escolha uma opção..."
+"Regular Price","Preço Regular"
+"As low as","Tão baixo quanto"
+From,De
+To,Para
+"Print Page","Imprimir Página"
+"Clear List","Limpar Lista"
+"Compare Products","Comparar Produtos"
+Compare,Comparar
+Product,Produto
+"Remove Product","Remover Produto"
+"Add to Wishlist","Adicionar a Lista de Desejos"
+"In stock","Em estoque"
+"Out of stock","Fora de estoque"
+"You have no items to compare.","Você não tem itens para comparar."
+Clear,Limpar
+"Clear Compare List","Limpar Lista de Comparação"
+"Compare Items","Comparar Itens"
+"We can't find products matching the selection.","Não conseguimos encontrar produtos que correspondam à seleção."
+"Add to Compare","Adicionar para Comparar"
+"Related Products","Produtos Relacionados"
+"We found other products you might like!","Encontramos outros produtos que você pode gostar!"
+"More Choices:","Mais Oções:"
+"A few recommendations","Algumas Recomendações"
+"New Products","Novos Produtos"
+"Quick View","Olhada Rápida"
+Show,Exibir
+"per page","por página"
+Filters,Filtros
+"Sort By","Ordenar por"
+"Set Ascending Direction","Definir Direção Ascendente"
+"Set Descending Direction","Definir Direção Descendente"
+"View as","Ver como"
+"Buy %1 for: ","Compre %1 por: "
+"Click for price","Clique para ver o preço"
+"<strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong> buy %1 for %2 each","<strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong> buy %1 for %2 each"
+"Buy %1 for %2 each","Compre %1 por %2 cada"
+Close,Fechar
+"Customer Reviews","Avaliação dos Clientes"
+"Ratings & Reviews","Avaliações & Resenhas"
+"Be the first to review this product","Seja o primeiro a avaliar este produto"
+"Share your thoughts with other customers","Compartilhe seus pensamentos com outros clientes"
+"Write review","Escrever Avaliação"
+"See All","Ver Tudo"
+Email,Email
+Change,Alterar
+select,selecionar
+"Compatible file extensions to upload: %1","Extensões de arquivo compatíveis para upload: %1"
+"Maximum image width: %1px.","Largura máxima da imagem: %1px."
+"Maximum image height: %1px.","Altura máxima da imagem: %1px."
+"-- Please Select --","-- Por favor Selecione --"
+"Please Select","Por favor Selecione"
+name,nome
+"Don't see what you're looking for?","Não encontrou o que está procurando?"
+"Modify your search.","Modifique a sua pesquisa."
+"Search Settings","Configurações da Pesquisa"
+Search,Procurar
+"We can't find any items matching these search criteria.","Não encontramos nenhum item que corresponda a esses critérios de pesquisa."
+"%1 item were found using the following search criteria","%1 item foram encontrados usando os seguintes critérios de pesquisa"
+"%1 items were found using the following search criteria","%1 itens foram encontrados usando os seguintes critérios de pesquisa"
+"Your search returned no results.","Sua pesquisa não retornou resultados."
+"Search for:","Procurar por:"
+Overview,Visão Geral
+"Do you Have discount code?","Você tem cupom de desconto?"
+"Enter discount code","Insira o código de desconto"
+"Apply Discount","Aplicar Desconto"
+Apply,Aplicar
+"Cancel Coupon","Cancelar Cupom"
+Cancel,Cancelar
+"%1 %2","%1 %2"
+" in Cart"," no Carrinho"
+"Update Shopping Cart","Atualizar Carrinho de Compras"
+Update,Atualizar
+"Continue Shopping","Continuar Comprando"
+"Clear Shopping Cart","Limpar Carrinho de Compras"
+"Clear all","Limpar Tudo"
+"Shopping Cart Items","Itens do Carrinho de Compras"
+Subtotal,Subtotal
+"Update Cart","Atualizar Carrinho"
+"My Cart","Meu Carrinho"
+"Proceed to Checkout","Fechar Pedido"
+Checkout,Fechar Pedido
+"Your Order is: %1","Seu pedido é: %1"
+"Your Order is: <span>%1</span>","Seu pedido é: <span>%1</span>"
+"We'll email you an order confirmation with details and tracking info.","Enviaremos um e-mail com a confirmação do pedido com detalhes e informações de rastreamento."
+Contact,Contato
+"Ship to","Enviar para"
+Date,Data
+"Please select a region, state or province.","Selecione uma região, estado ou província."
+"Company Information","Informações da Empresa"
+"Company Name","Nome da Empresa"
+"Company Legal Name","Razão Social da Empresa"
+"Company Email","Email da Empresa"
+"VAT/TAX ID","VAT/TAX ID"
+"Re-seller ID","ID do Revendedor"
+"Legal Address","Endereço Legal"
+"Street Address","Endereço"
+City,Cidade
+Country,País
+State/Province,Estado/Província
+"ZIP/Postal Code","CEP"
+"Phone Number","Número de Telefone"
+"Company Administrator","Administrador da Empresa"
+"Job Title","Cargo"
+Submit,Enviar
+Company,Empresa
+"Create an Account","Criar uma Conta"
+"My Account","Minha Conta"
+"Address Book","Lista de Endereços"
+"Manage Addresses","Gerenciar Endereços"
+"Default Billing Address","Endereço de Cobrança Padrão"
+"Edit Address","Editar Endereço"
+"Default Shipping Address","Endereço de Entrega Padrão"
+"Contact Information","Informações de Contato"
+"Change Password","Mudar Senha"
+Newsletters,Boletins Informativos
+"You are subscribed to ""General Subscription"".","Você está inscrito em ""Assinatura Geral""."
+"You aren't subscribed to our newsletter.","Você não está inscrito em nosso boletim informativo."
+"Hi, ","Olá, "
+or,ou
+"You have no default billing address in your address book.","Você não tem um endereço de cobrança padrão em sua lista de endereços."
+"You have no default shipping address in your address book.","Você não tem um endereço de entrega padrão em sua lista de endereços."
+"* Required Fields","* Campos Obrigatórios"
+Address,Endereço
+"Street Address %1","Endereço %1"
+"It's a default billing address.","É um endereço de cobrança padrão."
+"Use as default billing address","Use como endereço de cobrança padrão"
+"It's a default shipping address.","É um endereço de entrega padrão."
+"Use as default shipping address","Use como endereço de entrega padrão"
+"Save Address","Salvar Endereço"
+Save,Salvar
+"Go back","Voltar"
+"Additional Address","Endereço Adicional"
+"Add New Address","Adicionar Novo Endereço"
+"Add New","Adicionar Novo"
+"First Name","Nome"
+"Last Name","Sobrenome"
+State,Estado
+"Zip/Postal Code","CEP"
+Phone,Telefone
+"Delete Address","Apagar Endereço"
+"You have no other address entries in your address book.","Você não tem outras entradas de endereço em sua lista de endereços."
+Back,Voltar
+"Account Information","Informação da Conta"
+"Change Email and Password","Alterar E-mail e Senha"
+"New Email","Novo Email"
+Password,Senha
+"New Password","Nova Senha"
+"Password Strength","Força da Senha"
+"No Password","Nenhuma Senha"
+Confirm,Confirme
+"Change Email","Alterar Email"
+"Already Registered?","Já é registrado?"
+"If you have an account, sign in with your email address.","Se você tiver uma conta, entre com o seu e-mail."
+"Sign In","Entrar"
+"Forgot Your Password?","Esqueceu sua Senha?"
+"Don’t have an Account?","Não tem uma conta?"
+"Create an account","Crie a sua conta aqui"
+"Creating an account","Criar uma conta"
+" has many benefits: check out faster, keep more than one address, track orders and more."," tem muitos benefícios: fechar pedido mais rápido, manter mais de um endereço, rastrear pedidos e muito mais."
+Balance,Balance
+"Your balance is:","Your balance is:"
+"Balance History","Balance History"
+Action,Ação
+"Balance Change","Balance Change"
+Fax,Fax
+"Current Password","Senha Atual"
+"Confirm New Password","Confirme a Nova Senha"
+Currency,Moeda
+Currency:,Moeda:
+"Downloadable Products","Produtos para Download"
+"Order #","Pedido #"
+Title,Título
+Status,Status
+"Remaining Downloads","Downloads Restantes"
+"View Order","Ver Pedido"
+"Start Download","Iniciar Download"
+Download,Download
+"You have not purchased any downloadable products yet.","Você ainda não comprou nenhum produto para download."
+"Redeem Gift Card","Resgatar Cartão de Presente"
+"Have a gift card?","Você tem um vale-presente?"
+"Click here","Clique aqui"
+"to redeem it.","para resgatá-lo."
+"Shipping Address","Endereço de Entrega"
+"Select a shipping address from your address book or enter a new address.","Selecione um endereço de entrega em sua lista de endereços ou insira um novo endereço."
+"Gift Registry","Registro de Presentes"
+Note,Observação
+"Added On","Adicionado"
+"Qty Fulfilled","Qtd Preenchida"
+"Update Gift Registry","Atualizar Registro de Presentes"
+"This gift registry has no items.","Este registro de presente não tem itens."
+Name,Nome
+Sender,Remetente
+Message,Mensagem
+Invitee,Convidado(a)
+"Maximum %1 email addresses.","Máximo de %1 endereços de e-mail."
+"Add Invitee","Adicionar Convidado(a)"
+"Share Gift Registry","Compartilhar Registro de Presentes"
+%1,%1
+"Registrant Information","Informações do Registrante"
+"Maximum %1 registrants.","Máximo de %1 registrantes."
+"Add Registrant","Adicionar Registrante"
+Type:,Tipo:
+"General Information","Informações Gerais"
+Event,Evento
+"Privacy Settings","Configurações de Privacidade"
+label,rótulo
+"This won't take long . . .","Não vai demorar muito . . ."
+"Required Fields","Campos Obrigatórios"
+"Search Options","Opções de Pesquisa"
+"Gift Registry Type","Tipo de Registro de Presente"
+"For better search results, first choose a gift registry type. By default, we search all registry types.","Para obter melhores resultados de pesquisa, primeiro escolha um tipo de registro de presentes. Por padrão, pesquisamos todos os tipos de registro."
+"Type Specific Options","Tipo de Opções Específicas"
+"Registrant Email","Email do Registrante"
+"Gift Registry ID","ID de Registro de Presentes"
+"Search Results","Procurar Resultados"
+Location,Localização
+Type,Tipo
+"Event Date","Data do Evento"
+Actions,Ações
+View,Visualizar
+"Gift Registry Items","Itens de Registro de Presentes"
+"Product Name","Nome do Produto"
+Requested,Requeridos
+Fulfilled,Realizado
+Remaining,Remanescente
+"Unit Price","Preço Unitário"
+"Add to Gift Registry","Adicionar ao Registro de Presentes"
+"Grouped product items","Itens de produtos agrupados"
+Availability,Disponibilidade
+"No options of this product are available.","Nenhuma opção deste produto esta disponível."
+"Your order is: <span>%1</span>","Seu pedido é: <span>%1</span>"
+"We'll email you an order and pick-up confirmation with details.","Enviaremos um email com um pedido e uma confirmação de coleta com os detalhes."
+"Invite your friends by entering their email addresses","Convide seus amigos inserindo seus endereços de e-mail"
+"Maximum %1 email addresses allowed.","Máximo de %1 endereços de e-mail permitidos."
+"Add Email","Adicionar Email"
+"Send Invitations","Enviar Convites"
+"Back to Invitations","Voltar para Convites"
+"Email Address","Endereço de Email"
+"Enter Email","Digite o E-mail"
+"You cannot send more invitations","Você não pode enviar mais convites"
+"Hide Filters","Ocultar Filtros"
+item,item
+items,itens
+"Now Shopping by","Agora Comprando por"
+Previous,Anterior
+"Close filter","Fechar filtro"
+"Shop By","Comprar por"
+"Clear All","Limpar Tudo"
+Tooltip,Dica de Ferramenta
+"Delete Wish List","Excluir Lista de Desejos"
+"You must select items to add to the cart.","Você deve selecionar itens para adicionar ao carrinho."
+Owner,Proprietário
+Updated,Atualizado
+"Wish List Items","Itens da Lista de Desejos"
+"Add to","Adicionar à"
+"Create New Wish List","Crie uma nova Lista de Desejos"
+Wishlist,Lista de Desejos
+"Copy to Wish List","Copiar para a Lista de Desejos"
+"Select Item","Selecionar Item"
+"Owner Email","Email do Proprietário"
+"Wish List Name","Nome da Lista de Desejos"
+"Wish List","Lista de Desejos"
+"Create Wish List","Criar Lista de Desejos"
+"Edit Wish List","Editar Lista de Desejos"
+"Public Wish List","Lista de Desejos Pública"
+"Private Wish List","Lista de Desejos Privada"
+"Select All","Selecionar Tudo"
+"Move Selected to Wish List","Mover Selecionado para a Lista de Desejos"
+"Copy Selected to Wish List","Copiar Selecionado para a Lista de Desejos"
+"Wish List Search","Pesquisa de Lista de Desejos"
+"Search By","Procurar por"
+"Please enter at least two letters.","Por favor, digite pelo menos duas letras."
+"Default Billing","Faturamento Padrão"
+"Default Shipping","Frete Padrão"
+"Select Address","Selecione o Endereço"
+"Back to Billing Information","Voltar para Informações de Faturamento"
+"Please select a shipping address for applicable items.","Selecione um endereço de entrega para os itens aplicáveis."
+"Send To","Enviar para"
+"A shipping selection is not applicable.","Uma seleção de envio não é aplicável."
+"Remove Item","Remover Item"
+"Back to Shopping Cart","Voltar ao Carrinho de Compras"
+"Back to Cart","Voltar ao Carrinho"
+"Update Qty &amp; Addresses","Atualizar Qtde &amp; Endereços"
+"Enter a New Address","Insira um Novo Endereço"
+"New Address","Novo Endereço"
+"Go to Shipping Information","Vá para as Informações de Envio"
+Loading...,Carregando...
+"Billing Address","Endereço de Cobrança"
+"Change Billing Address","Alterar Endereço de Cobrança"
+"Payment Method","Forma de Pagamento"
+"Go to Review Your Order","Vá para Revisar o seu Pedido"
+"Back to Shipping Information","Voltar para Informações de Envio"
+"Other items in your order","Outros itens em seu pedido"
+"Edit Items","Editar Itens"
+"Shipping is not applicable.","Frete não é aplicável."
+Qty:,Qtd:
+"Please see","Por favor, veja"
+"Error Details","Detalhes do Erro"
+"details below","detalhes abaixo"
+"Billing Information","Informações de Pagamento"
+"Change Payment Method","Mudar o Meio de Pagamento"
+"Shipping Information / Address %1 of %2","Informação de Envio / Endereço %1 de %2"
+"Change Shipping Address","Alterar Endereço de Entrega"
+"Shipping Method","Modo de Envio"
+"Change Shipping Method","Alterar Modo de Envio"
+Items,Itens
+"Order Review","Revisão do Pedido"
+"Grand Total:","Total Geral:"
+"Place Order","Fechar Pedido"
+"Submitting order information...","Enviando informações do pedido..."
+"Address %1 of %2","Endereço %1 de %2"
+"Ship To","Enviar para"
+"Sorry, no quotes are available for this order right now.","Desculpe, nenhuma cotação está disponível para este pedido no momento."
+"Continue to Billing Information","Continue para Informações de Faturamento"
+"Back to Select Addresses","Voltar para Selecionar Endereços"
+"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","Para solicitar itens com sucesso, você receberá um e-mail de confirmação incluindo números de pedido, informações de rastreamento e mais detalhes."
+"Your Order is:","Seu pedido é:"
+"Order Id","Id do Pedido"
+"Ship to:","Enviar para:"
+"No shipping required.","O frete não é necessário."
+"Newsletter image","Imagem do Boletim Informativo"
+Join,Junte-se
+"Are you sure you want to do this?","Você tem certeza disso?"
+"Agreement Information","Informação do Acordo"
+"Reference ID:","Referência ID:"
+Status:,Status:
+Created:,Criado:
+Updated:,Atualizado:
+"Payment Method:","Forma de Pagamento:"
+"Related Orders","Pedidos Relacionados"
+"Order Total","Total do Pedido"
+"Order Status","Status do Pedido"
+"Billing Agreements","Acordos de Cobrança"
+"Reference ID","Referência ID"
+"Created At","Criado em"
+"Updated At","Atualizado em"
+"View Billing Agreement","Ver Acordo de Faturamento"
+"There are no billing agreements yet.","Ainda não há acordos de faturamento."
+"New Billing Agreement","Novo Acordo de Faturamento"
+"You will be redirected to the payment system website.","Você será redirecionado para o site do sistema de pagamento."
+"Create Billing Agreement","Criar Acordo de Faturamento"
+Create,Criar
+"Price change alert! We wanted you to know that prices have changed for these products:","Alerta de mudança de preço! Queríamos que você soubesse que os preços desses produtos mudaram:"
+"Click here to stop alerts for this product.","Clique aqui para interromper os alertas para este produto."
+Unsubscribe,Cancelar Inscrição
+"Unsubscribe from all price alerts","Cancelar a assinatura de todos os alertas de preço"
+"In stock alert! We wanted you to know that these products are now available:","Alerta de Estoque! Queríamos que você soubesse que esses produtos já estão disponíveis:"
+"Create New Requisition List","Criar Nova Lista de Requisição"
+Rename,Renomear
+"Delete Requisition List","Excluir Lista de Requisição"
+"Rename Requisition List","Renomear Lista de Requisições"
+"in requisition list","na lista de requisição"
+"Update List","Lista de Atualização"
+"You have no items in this requisition list.","Você não tem itens nesta lista de requisição."
+Select,Selecione
+"product(s) require your attention","produto(s) requerem a sua atenção"
+Rating,Avaliação
+"See Details","Ver Detalhes"
+"You have submitted no reviews.","Você não enviou comentários."
+"My Recent Reviews","Minhas Revisões Recentes"
+"View All","Ver Tudo"
+"Submitted on %1","Enviado em %1"
+"Back to My Reviews","Voltar para Minhas Avaliações"
+"Write your review","Escreva sua Avaliação"
+"About the ","Sobre "
+"You're reviewing:","Você está avaliando:"
+"Your Rating","Sua Avaliação"
+Nickname,Nome
+Summary,Resumo
+Review,Avaliação
+"Send Review","Enviar Avaliação"
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Somente usuários registrados podem escrever avaliações. Por favor <a href=""%1"">Entre</a> ou <a href=""%2"">Crie a sua conta aqui</a>"
+Reviews,Avaliações
+"Add Review","Adicione uma Avaliação"
+"Add Your Review","Adicionar Avaliação"
+Amount,Quantia
+Points,Pontos
+Reason,Motivo
+"Expires on %1","Expira em %1"
+"There is no balance history.","There is no balance history."
+"Reward points balance Information","Informações de Saldo de Pontos de Recompensa"
+"Learn more","Leia mais"
+"Your balance is %1.","Your balance is %1."
+"Current exchange rates:","Current exchange rates:"
+"%1 = %2","%1 = %2"
+"%1 spent = %2 earned","%1 spent = %2 earned"
+"Balance limit is %1.","Balance limit is %1."
+"Maximum balance is reached","Maximum balance is reached"
+"Minimum Balance in order to redeem: %1.","Minimum Balance in order to redeem: %1."
+"You need a higher balance to use your rewards points.","You need a higher balance to use your rewards points."
+"Each earned reward points award expires in %1 days.","Each earned reward points award expires in %1 days."
+"Refer to reward points history to see when a specific record expires.","Consulte o histórico de pontos de recompensa para ver quando um registro específico expira."
+"Email Notification Settings","Configurações de Notificação por E-mail"
+"Subscribe for Balance Updates","Inscreva-se para Atualizações de Saldo"
+"Subscribe for Points Expiration Notifications","Inscreva-se para Receber Notificações de Expiração de Pontos"
+"Save Subscription Settings","Salvar Configurações de Assinatura"
+"Return items","Devolver itens"
+Sub-items,Subitens
+"Remaining Qty","Qtd Restante"
+"Quantity To Return","Quantidade a Devolver"
+"Remaining Quantity:","Quantidade Restante:"
+"New Return for Order %1","Nova Devolução para o Pedido %1"
+"Order ID","ID do Pedido"
+"Customer Name","Nome do Cliente"
+"Order Shipping Address","Endereço de Envio do Pedido"
+"Return Items Information","Informações dos Itens Devolvidos"
+"Add Item To Return","Adicionar Item para Devolver"
+Comments,Comentários
+"Request Information","Informação Solicitada"
+ID,ID
+"Date Requested","Data Requerida"
+"Contact Email Address","E-mail de Contato"
+"Shipping and Tracking Information","Informações de Envio e Rastreamento"
+"Track this shipment","Rastrear esta Remessa"
+"Print Shipping Label","Imprimir Etiqueta de Envio"
+"Show Packages","Mostrar Pacotes"
+Carrier,Transportadora
+Number,Número
+Add,Adicionar
+"Items Return Requested For","Devolução de Itens Solicitados para"
+Condition,Condição
+Resolution,Resolução
+"Request Qty","Solicitar Qtd"
+"Hide Details","Ocultar Detalhes"
+"Show Details","Mostrar Detalhes"
+"Questions and Answers","Perguntas e Respostas"
+Questions,Perguntas
+Answers,Respostas
+"Customer Service","Atendimento ao Cliente"
+"Leave Comment","Deixe um Comentário"
+"Submit Comment","Enviar Comentário"
+"Shipped By","Enviado por"
+"Tracking Number","Código de Rastreio"
+"Shipment Tracking Number","Código de Rastreamento da Remessa"
+"Order Information","Informações do Pedido"
+"Billing Last Name","Sobrenome de Cobrança"
+"Find Order By","Encontrar Pedido por"
+"ZIP Code","CEP"
+"Billing ZIP Code","CEP de Cobrança"
+Continue,Continuar
+Orders,Pedidos
+Reorder,Refazer Pedido
+"You have placed no orders.","Você não fez pedidos. =("
+"No shipping information available","Nenhuma informação de envio disponível"
+"Order Date","Data do Pedido"
+"Print Order","Imprimir Pedido"
+"Refund #%1","Reembolso #%1"
+"Items Refunded","Itens Reembolsados"
+"Discount Amount","Valor do Desconto"
+"Row Total","Total da Linha"
+"Invoice #","Fatura #"
+"Items Invoiced","Itens Faturados"
+"Qty Invoiced","Qtd. Faturada"
+"Shipment #%1","Envio #%1"
+"Qty Shipped","Qtd Enviada"
+"Recent Orders","Pedidos Recentes"
+"Recently Ordered","Pedidos feitos Recentemente"
+Buy,Comprar
+"Search entire store here...","Pesquisar em toda a loja..."
+Reset,Redefinir
+"Print All Shipments","Imprimir Todas as Remessas"
+"Shipment #","Envio #"
+"Print Shipment","Imprimir Remessa"
+"Tracking Number(s):","Código de Rastreamento:"
+"Items Shipped","Itens Enviados"
+Language,Idioma
+Language:,Idioma:
+"Back to Top","Voltar ao Topo"
+"Welcome, %1!","Bem-Vindo, %1!"
+"Toggle Nav","Toggle Nav"
+"Items %1 to %2 of %3 total","Itens %1 para %2 de %3 total"
+"%1 Item","%1 Item"
+"%1 Item(s)","%1 Iten(s)"
+Pagination,Paginação
+Page,Página
+"You're currently reading page","Você está lendo a página"
+Next,Próximo
+"Share Wish List","Compartilhar Lista de Desejos"
+"Update Wish List","Atualizar Lista de Desejos"
+"Add to Wish List","Adicionar a Lista de Desejos"
+"Product Image","Imagem do Produto"
+Comment,Comente
+"View Product","Ver Produto"
+"My Wish List","Minha Lista de Desejos"
+"Show details","Mostrar Detalhes"
+More,Mais
+"from list","da lista"
+"Options Details","Detalhes das Opções"
+"Wish List Sharing","Compartilhamento da Lista de Desejos"
+"Sharing Information","Compartilhando Informação"
+"Email addresses, separated by commas","Endereços de e-mail separados por vírgulas"
+"Check here to link an RSS feed to your Wish List.","Clique aqui para vincular um feed RSS à sua lista de desejos."
+Share,Compartilhar
+"Go to Wish List","Vá para a Lista de Desejos"
+"You have no items in your wish list.","Você não têm itens na sua Lista de Desejos."
+"Credit Card Information","Informação do Cartão de Crédito"
+"Card Number","Número do Cartão"
+"Please, enter valid Credit Card Number","Insira o Número do Cartão de Crédito válido"
+"Expiration Date","Expiration Date"
+"Please, enter valid Expiration Date","Por favor, insira uma Data de Expiração válida"
+CVV,CVV
+"Please, enter valid Card Verification Number","Por favor, insira o Número de Verificação válido do Cartão"
+"Save for later use.","Salvar para usar em compras futuras."
+"Already have an account?","Já tem uma conta?"
+"Log in","Entrar"
+"Log In","Entrar"
+"Save in address book","Salvar na lista de endereços"
+"You can create an account after checkout.","Você pode criar uma conta após fechar o pedido."
+"You already have an account with us. Sign in or continue as guest.","Você já tem uma conta conosco. Faça o login ou continue como visitante."
+Login,Entrar
+"View and Edit Cart","Ver e Editar Carrinho"
+Details,Detalhes
+"You can track your order status by","Você pode rastrear o status do seu pedido por"
+"creating an account","criando uma conta"
+Method,Método
+edit,editar
+"Order Summary","Resumo do Pedido"
+"View Details","Ver Detalhes"
+"Welcome to %store_name","Bem-Vindo a %store_name"
+"%name,","%name,"
+"Welcome to %store_name.","Bem-Vindo a %store_name."
+"To sign in to our site, use these credentials during checkout or on the
+        <a href=""%customer_url"" title=""%customer_page_title"" aria-label=""%customer_page_title"">Minha Conta</a> page:","Para entrar em nossa Loja, use essas credenciais durante a finalização da compra ou na pagina
+        <a href=""%customer_url"" title=""%customer_page_title"" aria-label=""%customer_page_title"">Minha Conta</a>"
+Email:,Email:
+Password:,Senha:
+"Password you set when creating account","Senha que você definiu ao criar a conta"
+"Forgot your account password? Click <a href=""%reset_url"" title=""%reset_title"" aria-label=""%reset_title"""">here</a> to reset it.","Esqueceu a senha da sua conta? Clique <a href=""%reset_url"" title=""%reset_title"" aria-label=""%reset_title"""">aqui</a> para redefini-la."
+"When you sign in to your account, you will be able to:","Ao fazer o login em sua conta, você será capaz de:"
+"Proceed through checkout faster","Prossiga com a finalização da compra mais rápido"
+"Check the status of orders","Verifique o status dos pedidos"
+"View past orders","Ver pedidos anteriores"
+"Store alternative addresses (for shipping to multiple family members and friends)","Armazene endereços alternativos (para envio para vários membros da família e amigos)"
+"Thank you for confirming your %store_name account.","Obrigado por confirmar sua conta %store_name."
+"Forgot your account password? Click <a href=""%reset_url"" title=""%reset_title"" aria-label=""%reset_title"">here</a> to reset it.","Esqueceu a senha da sua conta?  Clique <a href=""%reset_url"" title=""%reset_title"" aria-label=""%reset_title"">aqui</a> para redefini-la."
+"Reset your %store_name password","Redefina sua senha da %store_name"
+"There was recently a request to change the password for your account.","Recentemente, houve uma solicitação para alterar a senha de sua conta."
+"If you requested this change, set a new password here:","Se você solicitou essa alteração, defina uma nova senha aqui:"
+"Set a New Password","Definir uma Nova Senha"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Se você não fez esta solicitação, você pode ignorar este e-mail e sua senha permanecerá a mesma."
+"Checkout using your account","Fechar Pedido usando sua conta"
+"Checkout as a new customer","Fechar Pedido como um Novo Cliente"
+"has many benefits: check out faster, track orders and more.","tem muitos benefícios: fechar pedido mais rápido, rastrear pedidos e muito mais."
+Footer,Rodapé
+"Thank you, %store_name","Obrigado, %store_name"
+Header,Cabeçalho
+"Store Logo","Logotipo da Loja"
+"Gift Message (optional)","Mensagem de Presente (opcional)"
+To:,Para:
+From:,De:
+Message:,Mensagem:
+"Gift options","Opções de Presente"
+"Pick a paper of your choice (optional)","Escolha um papel de sua preferência (opcional)"
+"No image","Sem imagem"
+"Gift Receipt","Recibo de Presente"
+"Printed card","Cartão impresso"
+"Do you have discount code?","Você tem cupom de desconto?"
+"Cancel coupon","Cancelar cupom"
+"Take a look at %customer_name's Wish List","Dê uma olhada na Lista de Desejos de %customer_name"
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name deseja compartilhar esta Lista de Desejos da %store_name com você:"
+"View all Wish List items","Ver todos os itens da Lista de Desejos"
+Adding...,Adicionando...
+Added,Adicionado
+"Please enter a valid price range.","Insira uma faixa de preço válida."
+"New shipping address","Novo Endereço de Entrega"
+"Add to:","Adicionar à:"
+"Account Menu","Menu da Conta"
+Account,Conta
+Please select...,Por favor selecione...
+"Show Filters","Exibir Filtros"
+"Hide Filters","Ocultar Filtros"
+"Minus","Menos"
+"Plus","Mais"
+"item","item"
+"items","itens"
+"Account","Conta"
+"No shipping method selected","Nenhum método de envio foi selecionado"
+"No payment method selected","Nenhum método de pagamento foi selecionado"
+"Ship here","Entregar aqui" 
+"The coupon isn´t valid. Verify the code and try again.","O cupom não é válido. Verifique o código e tente novamente."
+
