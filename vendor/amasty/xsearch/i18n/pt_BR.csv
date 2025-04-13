@@ -1,0 +1,125 @@
+"Search Volume","Volume de Pesquisa"
+Attribute,Atributo
+Weight,Peso
+ID,ID
+"Search Query","Consulta de Pesquisa"
+Results,Resultados
+Hits,Hits
+Position,Posição
+Status,Status
+"Not Installed","Não Instalado"
+"Increase the convenience of searching for products by customers with the help of various sorting options provided by Improved Sorting plugin.","Aumente a conveniência de pesquisar produtos pelos clientes com a ajuda de várias opções de classificação fornecidas pelo plug-in de Classificação Aprimorada."
+"Amasty Sorting Not Installed","Amasty Sorting Não Instalado"
+"Allows to search by blog pages created with Amasty Blog extension.","Permite pesquisar por páginas de blog criadas com a extensão Amasty Blog."
+"Please update Amasty Base module. Re-upload it and replace all the files.","Atualize o módulo Amasty Base. Faça o upload novamente e substitua todos os arquivos."
+"Related search terms","Termos de Pesquisa Relacionados"
+"Undefined collection factory","Fábrica de Coleta Indefinida"
+"Add to Cart","Adicionar ao Carrinho"
+"Recent Activity","Atividade Recente"
+"Search Analytics","Análise de Pesquisa"
+"Most Wanted Search Terms","Termos de Pesquisa Mais Procurados"
+"Elasticsearch engine returned an error response. ","O mecanismo Elasticsearch retornou uma resposta de erro. "
+"'item id: %1. Error type: ""%2"", reason ""%3""%4.' .","'item id: %1. Tipo de Erro: ""%2"", razão ""%3""%4.' ."
+"Provided argument is not in PSR-0 or underscore notation.","O argumento fornecido não está em PSR-0 ou notação de sublinhado."
+"Show Before Recently Viewed","Exibir Antes da Visualização Recente"
+"Show After Recently Viewed","Exibir Depois da Visualização Recente"
+"Dynamic (based on popup width)","Dinâmico (com base na largura do pop-up)"
+Default,Padrão
+No,Não
+"No, Disabled","Não, Desativado"
+"Yes, Show Always","Sim, Sempre Exibir"
+"Yes, Show Only when search returns 0 results","Sim, Exibir Apenas quando a pesquisa retornar 0 resultados"
+"User Search was not found","A Pesquisa de Usuário não foi encontrada"
+"Recent Activity (Search Volume)","Atividade Recente (Volume de Pesquisa)"
+"Total Searches","Total de Pesquisas"
+"Unique Searches","Pesquisas Únicas"
+Users,Usuários
+Engagement,Engajamento
+"Date & Time","Data & Hora"
+"View more","Ver Mais"
+"Related Terms","Termos Relacionados"
+"In stock","Em Estoque"
+"Out of stock","Fora de Estoque"
+"Add to Wish List","Adicionar a Lista de Desejos"
+"Add to Compare","Adicionar para Comparar"
+"View All","Ver Tudo"
+"Your search returned no results.","Sua busca não retornou resultados."
+Products,Produtos
+Search,Procurar
+"Search entire store here...","Pesquisar em toda a loja..."
+"Field must have valid hex color code.","O campo deve ter um código de cor hexadecimal válido."
+"The argument must be a function","O argumento deve ser uma função"
+"Enter Keyword or Item","Insira a palavra-chave ou nome do item"
+"Your search returned no products.","Sua pesquisa não retornou produtos."
+"Clear Field","Limpar Campo"
+"Advanced Search","Busca Avançada"
+"Most Wanted","Mais Procurados"
+Information,Informação
+General,Geral
+"Popup Width (px)","Largura do Popup (px)"
+"Set the width of the autocomplete popup window. Recommended value for horizontal view is 900. To get vertical view please enter 700 and lower.","Defina a largura da janela pop-up de preenchimento automático. O valor recomendado para a visualização horizontal é 900. Para obter a visualização vertical, insira 700 ou menos."
+"Search Field Width","Largura do Campo de Pesquisa"
+"Choose 'Default' to keep the original size of search field during searching process.","Escolha 'Padrão' para manter o tamanho original do campo de pesquisa durante o processo de pesquisa."
+"Min Characters","Min Caracteres"
+"Enable Redirect from 404 to Search Results","Habilitar Redirecionamento 404 para Resultados de Pesquisa"
+"If option is enabled, customer will be redirected to the store search results of the broken URL text instead of the '404 Not Found' page","Se a opção estiver ativada, o cliente será redirecionado para os resultados de pesquisa da loja do texto do URL quebrado em vez da página '404 Não encontrado'"
+"Custom URL Key for Default Search Results Page","Chave de URL Personalizada para Página de Resultados de Pesquisa Padrão"
+"URL will look 'search/yellow' instead of 'catalogsearch/results/q=yellow'.","O URL parecerá 'search/yellow' em vez de 'catalogsearch/results/q=yellow'."
+"Search Result Page URL Key","Chave de URL da Página de Resultados de Pesquisa"
+"Please do not use 'catalogsearch' as URL Key value. If you use Varnish Cache then please add this custom URL Key to the exclusions. Please see the details <a target='_blank' href=""https://amasty.com/docs/doku.php?id=magento_2:advanced_search#general_settings"">here</a>.","Não use 'catalogsearch' como valor de chave de URL. Se você usar o cache Varnish, adicione esta chave de URL personalizada às exclusões. Por favor veja os detalhes <a target='_blank' href=""https://amasty.com/docs/doku.php?id=magento_2:advanced_search#general_settings"">aqui</a>."
+"Enable Tabs on the Search Result Page","Ativar Guias na Página de Resultados de Pesquisa"
+"Set 'Yes' to display separate tabs on the Search result page for Category, CMS and Landing pages","Defina 'Sim' para exibir guias separadas na página de resultados da pesquisa para categorias, CMS e Páginas de Destino"
+"Enable Indexation for Autocomplete Popup","Habilitar Indexação para Pop-up de Preenchimento Automático"
+"Set Yes to speed up autocomplete popup performance. Please note, the reindex will take longer. This feature comes with Amasty Elastic Search extension only.","Defina Sim para acelerar o desempenho do pop-up de preenchimento automático. Observe que a reindexação demorará mais. Este recurso vem apenas com a extensão Amasty Elastic Search."
+"Show Related Search Queries in Search Results","Mostrar Consultas de Pesquisas Relacionadas nos Resultados da Pesquisa"
+"Show Related Search Queries Result Numbers","Exibir os Números dos Resultados de Consultas de Pesquisa Relacionadas"
+"Replace Empty Search Result Message with CMS Block","Substituir Mensagem de Resultado de Pesquisa Vazia por Bloco CMS"
+"Search Attributes","Atributos de Pesquisa"
+Enabled,Habilitado
+Title,Título
+"This setting is ignored for the horizontal popup window.","Esta configuração é ignorada para a janela pop-up horizontal."
+"Max Results","Resultados Máximos"
+"Name Length","Comprimento do Nome"
+"Short Description Length","Comprimento da Descrição Curta"
+"Show reviews","Exibir Avaliações"
+"Enable ""Add to Cart"" button","Habilitar o botão ""Adicionar ao Carrinho"""
+"Redirect to Product Page","Redirecionar para a Página do Produto"
+"When there is only one product in result","Quando houver apenas um produto no resultado"
+"Show ""Out of Stock"" Products Last","Exibir os produtos ""Sem Estoque"" por último"
+"Push ""Out of Stock"" products to the end of the search query list. Show products which are available for purchase first.","Empurre os produtos ""Fora de Estoque"" para o final da lista de consulta de pesquisa. Mostre os produtos que estão disponíveis para compra primeiro."
+"Apply Relevance Rules to Autocomplete Popup Results","Aplicar Regras de Relevância aos Resultados do Preenchimento Automático"
+"If enabled, applicable relevance rules (created in Elastic Search module) will impact not only the search results page, but the search popup as well.","Se ativadas, as regras de relevância aplicáveis ​​(criadas no módulo Elastic Search) afetarão não apenas a página de resultados da pesquisa, mas também o pop-up da pesquisa."
+"Popular Searches","Pesquisas Populares"
+"Show on First Click","Exibir no Primeiro Clique"
+"Recent Searches","Pesquisas Recentes"
+"Browsing History","Histórico de Navegação"
+Blog,Blog
+"Content Heading Length","Comprimento do Cabeçalho do Conteúdo"
+"Content Length","Comprimento do Conteúdo"
+Brands,Marcas
+"Allows to search by brand pages created with Amasty Improved Layered Navigation and Shop by Brand extensions.","Permite pesquisar por páginas de marca criadas com as extensões Amasty Improved Layered Navigation e Shop by Brand."
+Categories,Categorias
+"Description Length","Comprimento da Descrição"
+"Display Full Category Path","Exibir o Caminho Completo da Categoria"
+"CMS Pages","Páginas CMS"
+"Excluded Pages","Páginas Excluídas"
+"Recently Viewed","Visualizado Recentemente"
+Bestsellers,Mais Vendidos
+"Landing Pages","Landing Pages"
+"Allows to search by landing pages created with Amasty Landing Pages extension.","Permite pesquisar por páginas de destino criadas com a extensão Amasty Landing Pages."
+"FAQ Question","FAQ Perguntas"
+"Allows to search within FAQ and Product Questions pages created with Amasty extension.","Permite pesquisar nas páginas de FAQ e de Perguntas Sobre o Produto criadas com a extensão Amasty."
+"Custom Layout","Layout Personalizado"
+Border,Borda
+Hover,Hover
+Highlight,Highlight
+Background,Fundo
+Text,Texto
+"Hover Text","Hover Text"
+"Amasty: Advanced Search  - Categories","Amasty: Pesquisa Avançada - Categorias"
+"Rebuild fulltext search index","Reconstruir índice de pesquisa de texto completo"
+"Amasty: Xsearch - Popup Data","Amasty: Xsearch - Dados Popup"
+"Indexed data for popup","Dados Indexados para popup"
+"Engagement, %","Engajamento, %"
+"Date and Time","Data e Hora"
+"Faq Questions","Perguntas Frequentes"
