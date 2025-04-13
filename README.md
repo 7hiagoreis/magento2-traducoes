@@ -28,6 +28,7 @@ Os arquivos seguem a estrutura:
 
 ```
 sudo bin/magento setup:static-content:deploy pt_BR -f
+
 sudo bin/magento cache:flush
 
 ```
