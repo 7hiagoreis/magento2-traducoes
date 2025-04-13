@@ -8,9 +8,6 @@ Os arquivos seguem a estrutura:
 
 /<Vendor>/<Module>/i18n/pt_BR.csv
 
-bash
-Copiar
-Editar
 
 ### Exemplos:
 - `Magento/Catalog/i18n/pt_BR.csv`
@@ -26,11 +23,11 @@ Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou ve
 
 Execute os comandos do Magento:
 
-bash
-Copiar
-Editar
+
 bin/magento cache:flush
+
 bin/magento setup:static-content:deploy pt_BR -f
+
 💡 Dica
 Você pode automatizar esse processo com symlinks ou scripts para facilitar atualizações futuras.
 
