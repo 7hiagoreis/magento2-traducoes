@@ -1,0 +1,315 @@
+"Privacy Settings","Configurações de Privacidade"
+"Are you sure you want to do this?","Você tem certeza de que quer fazer isso?"
+"Delete Consent","Excluir Consentimento"
+"Personal Data","Dados Pessoais"
+Anonymise,Anonimato
+"Are you sure you want to anonymise personal data?","Tem certeza de que deseja tornar os dados pessoais anônimos?"
+Download,Download
+Delete,Excluir
+"Are you sure you want to delete personal data? (Personal data in previously created orders, invoices, shipments and credit memos will be anonymised then.)","Tem certeza de que deseja excluir os dados pessoais? (Os dados pessoais em pedidos, faturas, remessas e notas de crédito criados anteriormente serão tornados anônimos.)"
+Clone,Clonar
+"Save and Continue Edit","Salvar e Continuar Editando"
+Save,Salvar
+Send,Enviar
+"Here you can download a copy of your personal data which we store for your order in CSV format.","Aqui você pode baixar uma cópia dos seus dados pessoais que armazenamos quando você faz um pedido em formato CSV."
+"Here you can download a copy of your personal data which we store for your account in CSV format.","Aqui você pode baixar uma cópia de seus dados pessoais que armazenamos para sua conta em formato CSV."
+"Download personal data","Download Dados Pessoais"
+"Anonymise personal data","Anonimizar Dados Pessoais"
+"Anonymising your personal data means that it will be replaced
+                        with non-personal anonymous information and before that you will get your
+                        new login to your e-mail address (your password will stay the same). After this process,
+                        your e-mail address and all other personal data will be removed from the website.","Tornar seus dados pessoais anônimos significa que eles serão substituídos com informações anônimas não pessoais e antes disso você receberá seu novo login no seu endereço de e-mail (sua senha permanecerá a mesma). Após este processo, seu endereço de e-mail e todos os outros dados pessoais serão removidos do site."
+"I agree and I want to proceed","Eu concordo e quero continuar"
+Proceed,Continuar
+"Delete account","Excluir Conta"
+"Request to remove your account, together with all your personal data,
+                         will be processed by our staff.<br>Deleting your account will remove all the purchase
+                         history, discounts, orders, invoices and all other information that might be related to your
+                         account or your purchases.<br>All your orders and similar information will be
+                         lost.<br>You will not be able to restore access to your account after
+                         we approve your removal request.","Solicite a remoção de sua conta, 
+						 juntamente com todos os seus dados pessoais, essa solicitação será processada por nossa equipe.<br>A exclusão de sua conta removerá 
+						 todas as compras histórico, descontos, pedidos, faturas e todas as outras informações que possam se relacionar a sua conta ou suas compras. Todos os seus pedidos e informações semelhantes serão excluidos.
+						 <br>Você não poderá restaurar o acesso à sua conta após aprovarmos a sua solicitação de remoção."
+"I understand and I want to delete my account","Eu entendo e quero excluir minha conta"
+"Submit request","Enviar Pedido"
+"Given Consent","Dado o Consentimento"
+"Here you can opt in or opt out from consents that were previously given.","Aqui, você pode optar por receber ou não consentimentos que foram dados anteriormente."
+"Action Log","Log de Ações"
+"Action logs was successfully removed.","Os logs de ação foram removidos com sucesso."
+"Consent Log","Registro de Consentimento"
+"Consent logs was successfully removed.","Os logs de consentimento foram removidos com sucesso."
+"Customers Consents Email Queue","Consentimento de Clientes Fila de Email"
+"You have successfully deleted the consent","Você excluiu com sucesso o consentimento"
+"We can't delete item right now. Please review the log and try again.","Não podemos excluir o item agora. Reveja o log e tente novamente."
+"Edit Consent","Editar Consentimento"
+"This consent no longer exists...","Este consentimento não existe mais ..."
+"New Consent","Novo Consentimento"
+"Consent Checkboxes","Caixas de Seleção de Consentimento"
+"An error has occurred","Ocorreu um erro"
+"You saved the consent.","Você salvou o consentimento."
+"Consent with code %1 already exists.","O consentimento com o código %1 já existe."
+"Cookie Policy Consents","Consentimentos de Política de Cookies"
+"Personal data cannot be anonymised right now, because the customer has non-completed order(s): %1","Os dados pessoais não podem ser tornados anônimos agora, porque o cliente tem pedido(s) não concluído(s): %1"
+"Personal data cannot be anonymised right now, because the customer has active Gift Registry.","Os dados pessoais não podem ser tornados anônimos agora, porque o cliente tem um registro de presente ativo."
+"An error has occurred: %1","Ocorreu um erro: %1"
+"Personal data cannot be deleted right now, because the customer has non-completed order(s): %1","Os dados pessoais não podem ser excluídos agora, porque o cliente tem pedido(s) não concluído(s): %1"
+"Personal data cannot be deleted right now, because the customer has active Gift Registry.","Os dados pessoais não podem ser excluídos agora, porque o cliente tem um registro de presente ativo."
+"This policy no longer exists.","Esta política não existe mais."
+"You deleted the policy.","Você excluiu a política."
+"New Privacy Policy","Nova Política de Privacidade"
+"Edit Privacy Policy %1","Editar Política de Privacidade %1"
+"Privacy Policy","Política de Privacidade"
+"Please correct the data sent.","Corrija os dados enviados."
+"Something went wrong while saving the question.","Algo deu errado ao salvar a pergunta."
+"%1 policies(s) has been successfully deleted","%1 políticas foram excluídas com sucesso"
+"Privacy policy with the same version already exists.","Já existe uma Política de Privacidade com a mesma versão."
+"You saved the item.","Você salvou o item."
+"%1 customer(s) has been successfully deleted","%1 cliente(s) foi excluído com sucesso"
+"%1 customer(s) has not been successfully deleted, because they have non-completed order(s)","%1 cliente(s) não foi excluído com sucesso, porque eles têm pedido(s) não concluído(s)"
+"Delete Requests","Excluir Solicitações"
+"Deny Delete Requests","Negar Solicitação de Exclusão"
+"An error has occurred. Please check logs for more details","Ocorreu um erro. Por favor, verifique os logs para mais detalhes"
+"%1 email(s) has been sent","%1 e-mail(s) foi(foram) enviado(s)"
+"Customers With Consent","Clientes com Consentimento"
+"Customers were successfully added to email queue","Os clientes foram adicionados com sucesso à fila de e-mail"
+"Customers Without Consent","Clientes sem Consentimento"
+"Invalid Form Key. Please refresh the page.","Chave de Formulário Inválida. Atualize a página."
+"Access denied.","Acesso negado."
+"Wrong Password. Please recheck it.","Senha incorreta. Verifique novamente."
+"Your delete account request is awaiting for the review by the administrator.","Sua solicitação de exclusão de conta está aguardando a revisão do administrador."
+"We can not process your account deletion request right now, because you have active Gift Registry.","Não podemos processar seu pedido de exclusão de conta agora, porque você tem um registro de presente ativo."
+"Thank you, your account delete request was recorded.","Obrigado, sua solicitação de exclusão de conta foi registrada."
+"We can not anonymize order","Não podemos tornar o pedido anônimo"
+"We can not anonymize your account right now, because you have non-completed order(s):%1","Não podemos tornar sua conta anônima agora, porque você tem pedidos não concluídos:%1"
+"We can not anonymize your account right now, because you have active Gift Registry","Não podemos tornar sua conta anônima agora, porque você tem um registro de presente ativo"
+"Anonymisation was successful","O anonimato da conta foi bem-sucedido"
+"Thank you for your cooperation. Your consent was recorded.","Obrigado pela sua cooperação. Seu consentimento foi registrado."
+"Something went wrong.","Algo deu errado."
+"Changes has been saved.","As alterações foram salvas."
+"Invalid Policy version.","Versão de Política inválida."
+"Invalid Policy action.","Ação de Política inválida."
+"Privacy policy accepted.","Política de Privacidade aceita."
+"Unable to save actionLog with ID %1. Error: %2","Incapaz de salvar actionLog com ID %1. Erro: %2"
+"Unable to save new actionLog. Error: %1","Não foi possível salvar o novo actionLog. Erro: %1"
+"ActionLog with specified ID ""%1"" not found.","ActionLog com ID especificado ""%1"" não encontrado."
+"Unable to remove actionLog with ID %1. Error: %2","Incapaz de remover actionLog com ID %1. Erro: %2"
+"Unable to remove actionLog. Error: %1","Incapaz de remover actionLog. Erro: %1"
+"Delete Request Submitted","Solicitação de Exclusão Enviada"
+"Delete Request Approved","Solicitação de Exclusão Aprovada"
+"Delete Request Denied","Solicitação de Exclusão Negada"
+"Data Anonymised by Customer","Dados Anonimizados pelo Cliente"
+"Data Anonymised by Admin","Dados Anonimizados pelo Administrador"
+"Personal Data Deleted by Admin","Dados Pessoais Excluídos pelo Administrador"
+"Automatic Delete","Exclusão Automática"
+"Customer's Request","Pedido do Cliente"
+Pending,Pendente
+Success,Sucesso
+Fail,Falhou
+Allow,Permitir
+"Don't Allow for Statuses","Não Permitir Status"
+"Don't Delete","Não Apague"
+"Yes (Recommended)","Sim (Recomendado)"
+No,Não
+"[STORE VIEW]","[VISÃO DA LOJA]"
+"Consent with specified ID ""%1"" not found.","Consentimento com ID especificado ""%1"" não encontrado."
+"Consent with consent code %1 not found","Consentimento com Código de %1 não encontrado"
+"Unable to remove model without id","Incapaz de remover o modelo sem id"
+"Unable to remove consent, message is %1","Incapaz de remover o consentimento, a mensagem é %1"
+"Unable to save consent with ID %1. Error: %2","Incapaz de salvar consentimento com ID %1. Erro: %2"
+"Unable to save new consent. Error: %1","Incapaz de salvar o novo consentimento. Erro: %1"
+"Data consistency is broken.
+                    There is no entity by default store for a consent with ID %1","Data consistency is broken.
+                    There is no entity by default store for a consent with ID %1"
+"Unable to save deleteRequest with ID %1. Error: %2","Unable to save deleteRequest with ID %1. Error: %2"
+"Unable to save new deleteRequest. Error: %1","Unable to save new deleteRequest. Error: %1"
+"DeleteRequest with specified ID ""%1"" not found.","DeleteRequest with specified ID ""%1"" not found."
+"Unable to remove deleteRequest with ID %1. Error: %2","Unable to remove deleteRequest with ID %1. Error: %2"
+"Unable to remove deleteRequest. Error: %1","Unable to remove deleteRequest. Error: %1"
+Registration,Cadastro
+Checkout,Checkout
+"Contact Us","Contate-Nos"
+"Newsletter Subscription","Assinatura de Newsletter"
+Email,Email
+"Optional Consent at Account Privacy Settings","Consentimento Opcional nas Configurações de Privacidade da Conta"
+Draft,Rascunho
+Disabled,Desabilitado
+Enabled,Habilitado
+"Policy is active","A Política está ativa"
+"Unable to save policy with ID %1. Error: %2","Incapaz de salvar a política com ID %1. Erro: %2"
+"Unable to save new policy. Error: %1","Não foi possível salvar a nova política. Erro: %1"
+"Policy with specified ID ""%1"" not found.","Política com ID especificada ""%1"" não encontrada."
+"Unable to remove policy with ID %1. Error: %2","Incapaz de remover a política com ID %1. Erro: %2"
+"Unable to remove policy. Error: %1","Incapaz de remover a política. Erro: %1"
+"Unable to save consentQueue with ID %1. Error: %2","Incapaz de salvar consentQueue com ID %1. Erro: %2"
+"Unable to save new consentQueue. Error: %1","Unable to save new consentQueue. Error: %1"
+"ConsentQueue with specified ID ""%1"" not found.","ConsentQueue with specified ID ""%1"" not found."
+"Unable to remove consentQueue with ID %1. Error: %2","Unable to remove consentQueue with ID %1. Error: %2"
+"Unable to remove consentQueue. Error: %1","Unable to remove consentQueue. Error: %1"
+"Unable to save withConsent with ID %1. Error: %2","Unable to save withConsent with ID %1. Error: %2"
+"Unable to save new withConsent. Error: %1","Unable to save new withConsent. Error: %1"
+"WithConsent with specified ID ""%1"" not found.","WithConsent with specified ID ""%1"" not found."
+"Unable to remove withConsent with ID %1. Error: %2","Unable to remove withConsent with ID %1. Error: %2"
+"Unable to remove withConsent. Error: %1","Unable to remove withConsent. Error: %1"
+Guest,Convidado
+"Checkbox Location Option Group has empty name","Checkbox Location Option Group has empty name"
+"Option Source with code %1 not implements OptionSourceInterface","Option Source with code %1 not implements OptionSourceInterface"
+name,nome
+"Privacy Policy Popup","Popup da Política de Privacidade"
+"GDPR Privacy policy","Política de Privacidade do GDPR"
+"CMS Page","Página CMS"
+"All Countries","Todos os Países"
+"EEA Countries","Países EEA"
+"Specified Countries","Países Específicos"
+Accept,Aceitar
+Decline,Recusar
+"Privacy Checkbox","Caixa de Seleção de Privacidade"
+"You can see queue of sending e-mail consents <a target=""_blank"" href=""%1"">here</a>.","You can see queue of sending e-mail consents <a target=""_blank"" href=""%1"">here</a>."
+"Kindly be informed that Active or Disabled Privacy Policy cannot be amended. Please use the CLONE function to create a new Privacy Policy version and amend the text.","Kindly be informed that Active or Disabled Privacy Policy cannot be amended. Please use the CLONE function to create a new Privacy Policy version and amend the text."
+"Current Password","Senha Atual"
+"I have read and accept","Eu li e aceito"
+"Personal Data Protection","Proteção de Dados Pessoais"
+General,Geral
+"On the Frontend.","No frontend (vitrine da loja)."
+"Display Privacy Policy Popup on First Visit","Display Privacy Policy Popup on First Visit"
+"When a new customer opens the website, the privacy policy popup will be displayed. When a new version of
+                        Privacy Policy is issued, the popup will be displayed to those users who have not accepted the policy yet.","When a new customer opens the website, the privacy policy popup will be displayed. When a new version of
+                        Privacy Policy is issued, the popup will be displayed to those users who have not accepted the policy yet."
+"Log Guest Consent","Log Guest Consent"
+"If enabled, guest users who give the consent will be logged and displayed in Consent Log.","If enabled, guest users who give the consent will be logged and displayed in Consent Log."
+"Log Auto-Cleaning","Log Auto-Cleaning"
+"The records that were saved for a longer period than the specified below will be automatically removed from Consent and Action Logs.","The records that were saved for a longer period than the specified below will be automatically removed from Consent and Action Logs."
+"Log Auto-Cleaning Period (Days)","Log Auto-Cleaning Period (Days)"
+"The records that were saved for a longer period than you specified in the field will be automatically removed from Consent and Action Logs.","The records that were saved for a longer period than you specified in the field will be automatically removed from Consent and Action Logs."
+"Customer’s Account Privacy Settings","Customer’s Account Privacy Settings"
+"Allow Downloading Personal Data","Allow Downloading Personal Data"
+"If enabled, customers will be able to download their personal data.","If enabled, customers will be able to download their personal data."
+"Allow Anonymizing Personal Data","Allow Anonymizing Personal Data"
+"If enabled, customers will be able to anonymize their personal data.","If enabled, customers will be able to anonymize their personal data."
+"Allow Deleting Account","Allow Deleting Account"
+"If enabled, customers will be able to delete their accounts.","If enabled, customers will be able to delete their accounts."
+"Allow Opting Out from Given Consent","Allow Opting Out from Given Consent"
+"If enabled, the section Given Consent will be added to customer account for customers to be able to opt
+                        in or opt out from given consent. The checkboxes with the enabled option ‘Hide the Checkbox after User Gave the Consent’
+                        will be displayed under the Given Consent section. When the option 'Hide the Checkbox after User Gave the Consent’
+                        is disabled for checkboxes, they will not be added to the Given Consent section since the system will always display
+                        these checkboxes on selected forms even if the consent was given.","If enabled, the section Given Consent will be added to customer account for customers to be able to opt
+                        in or opt out from given consent. The checkboxes with the enabled option ‘Hide the Checkbox after User Gave the Consent’
+                        will be displayed under the Given Consent section. When the option 'Hide the Checkbox after User Gave the Consent’
+                        is disabled for checkboxes, they will not be added to the Given Consent section since the system will always display
+                        these checkboxes on selected forms even if the consent was given."
+"Display Data Protection Officer Information","Display Data Protection Officer Information"
+"If enabled, customers will be able to get information about your Data Protection Officer added to a separate section
+                        at their accounts.","If enabled, customers will be able to get information about your Data Protection Officer added to a separate section
+                        at their accounts."
+"Section Name","Section Name"
+"Data Protection Officer information","Data Protection Officer information"
+"Personal Data Deletion and Anonymization","Personal Data Deletion and Anonymization"
+"Automatic Personal Data Deletion","Automatic Personal Data Deletion"
+"Delete Personal Data of Abandoned Customer’s Accounts","Delete Personal Data of Abandoned Customer’s Accounts"
+"The extension will scan customers and their orders.
+                            If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request.
+                            You will be able to find it on the ‘Delete Requests’ grid","The extension will scan customers and their orders.
+                            If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request.
+                            You will be able to find it on the ‘Delete Requests’ grid"
+"Abandoned Customer’s Accounts Automatic Deletion Period (Days)","Abandoned Customer’s Accounts Automatic Deletion Period (Days)"
+"The extension will scan customers and their orders.
+                            If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request.
+                            You will be able to find it on the ‘Delete Requests’ grid.","The extension will scan customers and their orders.
+                            If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request.
+                            You will be able to find it on the ‘Delete Requests’ grid."
+"Prevent Data Deletion of Recent Orders","Prevent Data Deletion of Recent Orders"
+"Deletion of Personal Data in Recent Documents","Deletion of Personal Data in Recent Documents"
+"When a customer asks to delete personal data and the request is approved, the extension deletes their account, subscriptions, and the data in orders, invoices, shipments, and credit memos.
+                            Given disabled, it could cause problem for a store owner as these should be stored for a specific period of time.<br><br>
+
+                            The feature keeps personal data untouched in orders, invoices, shipments and credit memos for the set period after deleting customer’s account. When the period expires the personal data in the documents will be automatically deleted.","When a customer asks to delete personal data and the request is approved, the extension deletes their account, subscriptions, and the data in orders, invoices, shipments, and credit memos.
+                            Given disabled, it could cause problem for a store owner as these should be stored for a specific period of time.<br><br>
+
+                            The feature keeps personal data untouched in orders, invoices, shipments and credit memos for the set period after deleting customer’s account. When the period expires the personal data in the documents will be automatically deleted."
+"Prevent Data Deletion Period (Days)","Prevent Data Deletion Period (Days)"
+"After a customer deletes the account, personal data will stay untouched in orders, invoices, shipments and credit memos for the set period.
+                            When the set time expires the personal data will be automatically deleted.","After a customer deletes the account, personal data will stay untouched in orders, invoices, shipments and credit memos for the set period.
+                            When the set time expires the personal data will be automatically deleted."
+"Anonymization/Deletion of Personal Data for Orders in Specified Status(es)","Anonymization/Deletion of Personal Data for Orders in Specified Status(es)"
+"Order Statuses","Status do Pedido"
+"Forbid Customer's Personal Data Anonymization and Deletion if They Have Gift Registries","Forbid Customer's Personal Data Anonymization and Deletion if They Have Gift Registries"
+"Email Notifications","Notificações de Email"
+"Anonymization Notifications","Notificações de Anonimato"
+"Email Sender","Remetente do Email"
+"Email Reply To","Responder por Email Para"
+"You can set only one email address in this field.","Você pode definir apenas um endereço de e-mail neste campo."
+"Specify the email address for customer's replies or leave blank to use the sender address.","Especifique o endereço de e-mail para as respostas do cliente ou deixe em branco para usar o endereço do remetente."
+"Email Template","Modelo de Email"
+"Deletion Notifications","Notificações de Exclusão"
+"Manager Notification","Notificação do Gerente"
+"Notify Manager on Deletion Request","Notificar o Gerente sobre Solicitação de Exclusão"
+"Send Email To","Enviar um Email Para"
+"This will be used in the ""To"" field. Several emails should be written on a separate line.","Isso será usado no campo ""Para"". Se for vários e-mails, eles devem ser escritos em uma linha separada."
+"Customer’s Approval Notification","Customer’s Approval Notification"
+"Customer’s Deny Notification","Notificação de Negação do Cliente"
+"Default Magento Forms","Formulários Padrão do Magento"
+"Amasty Extension Forms","Formulários da Extensão Amasty"
+"Are you sure?","Tem certeza?"
+"Customer ID","Identificação do Cliente"
+"Customer Name","Nome do Cliente"
+"IP Address","Endereço IP"
+Date,Data
+Action,Ação
+Comment,Comentário
+"Checkbox Location","Localização da Caixa de Seleção"
+"Remote IP Address","Endereço IP Remoto"
+"Checkbox Code","Código da Caixa de Seleção"
+"Policy Version","Versão da Política"
+Website,Website
+Status,Status
+"Edit Checkbox","Editar Caixa de Seleção"
+Back,Voltar
+"Save Checkbox","Salvar Caixa de Seleção"
+"Checkbox Name","Nome da Caixa de Seleção"
+"Confirmation Required","Necessária Confirmação"
+"Hide the Checkbox after User Gave the Consent","Ocultar a caixa de seleção depois que o usuário der o consentimento"
+"If enabled, the system will always log consents to the checkbox.
+                            Moreover, the checkbox will be also added to customer account under the section 'Given Consent' to opt in or opt out from consent.","If enabled, the system will always log consents to the checkbox.
+                            Moreover, the checkbox will be also added to customer account under the section 'Given Consent' to opt in or opt out from consent."
+"Log the Consent","Log the Consent"
+"Checkbox Position","Checkbox Position"
+"You can use the <a> tag in the text and also the {link} variable to insert the privacy policy link into the checkbox text.
+                    Example: I have read and accept the <a href=""{link}"">privacy policy</a>
+                    ","You can use the <a> tag in the text and also the {link} variable to insert the privacy policy link into the checkbox text.
+                    Example: I have read and accept the <a href=""{link}"">privacy policy</a>
+                    "
+"Consent Link Type","Tipo de Link de Consentimento"
+"Countries Restrictment","Restrição de Países"
+"Display for Specific Countries","Exibir para Países Específicos"
+"New Checkbox","Nova Caixa de Seleção"
+"Delete checkboxes","Excluir Caixas de Seleção"
+"Are you sure you want to delete selected checkboxes?","Tem certeza de que deseja excluir as caixas de seleção selecionadas?"
+ID,ID
+Name,Nome
+Enable,Habilitar
+"Is Required","É Necessário"
+"Log The Consent","Registrar o Consentimento"
+Edit,Editar
+Version,Versão
+Policy,Política
+"Add New Policy","Adicionar Nova Política"
+"Delete policies","Apagar Políticas"
+"Are you sure you want to delete selected policies?","Tem certeza de que deseja excluir as políticas selecionadas?"
+Id,Id
+"Date Created","Data Criada"
+"Version Number","Número da Versão"
+"Last Edited","Última Edição"
+"Last Edited By","Última Edição por"
+"Approve Delete Request(s)","Aprovar Solicitação(ões) de Exclusão"
+"Are you sure you want to approve selected requests?","Tem certeza de que deseja aprovar as solicitações selecionadas?"
+"Deny Delete Request(s)","Negar Solicitação(ões) de Exclusão"
+"Date Submitted","Data Enviada"
+"Customer Email","Email do Cliente"
+"Initiator of Deletion","Iniciador de Exclusão"
+"Completed Orders Qty","Quantidade de Pedidos Concluídos"
+"Pending Orders Qty","Quantidade de Pedidos Pendentes"
+"Email Consent Request","Solicitação de Consentimento por Email"
+"Date Consented","Data de Consentimento"
+"Got From","Obtido de"
+Country,País
