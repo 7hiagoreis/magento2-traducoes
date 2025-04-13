@@ -26,9 +26,6 @@ Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou ve
 
 Execute os comandos do Magento:
 
-bash
-Copiar
-Editar
 bin/magento cache:flush
 bin/magento setup:static-content:deploy pt_BR
 
