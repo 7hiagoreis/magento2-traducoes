@@ -29,12 +29,4 @@ Execute os comandos do Magento:
    
    bin/magento setup:static-content:deploy pt_BR -f
 
-
-💡 Dica
-Você pode automatizar esse processo com symlinks ou scripts para facilitar atualizações futuras.
-
-🙌 Contribuições
-Pull requests são bem-vindos! Se quiser contribuir com correções ou novas traduções, sinta-se à vontade.
-
-📄 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+oad
