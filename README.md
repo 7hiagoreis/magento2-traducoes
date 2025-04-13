@@ -26,8 +26,8 @@ Os arquivos seguem a estrutura:
 
 3. Execute os comandos do Magento:
 
-```bash sudo bin/magento cache:flush
-bash bin/magento setup:static-content:deploy pt_BR -f
+```sudo bin/magento cache:flush
+sudo bin/magento setup:static-content:deploy pt_BR -f
 
 
 ```
