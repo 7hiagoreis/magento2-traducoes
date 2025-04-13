@@ -1,0 +1,41 @@
+Back,Voltar
+"Save and Continue Edit","Salvar e Continuar Editando"
+"Coupon Qty","Cupom Qtde"
+"Delete Existing Coupons","Excluir Cupons Existentes"
+Template,Modelo
+"<b>L</b> - letter, <b>D</b> - digit<br/>e.g. PROMO_LLDDD results in PROMO_DF627","<b>L</b> - letter, <b>D</b> - digit<br/>e.g. PROMO_LLDDD results in PROMO_DF627"
+Generate,Gerar
+"Uses per Coupon","Usos por Cupom"
+"Uses per Customer","Usos por Cliente"
+Edit,Editar
+"CSV File","Arquivo CSV"
+"CSV File Structure: Coupon Code *, Created, Uses, Times Used, Uses per Customer, Uses per Coupon, Expiration date <br/> Each coupon code on a new line <br/>* - mandatory","Estrutura do arquivo CSV: código de cupom *, criado, usos, tempos usados, usos por cliente, usos por cupom, data de expiração <br/> Cada código de cupom em uma nova linha <br/>* - obrigatório"
+Import,Importar
+"Rule is not defined","A regra não está definida"
+"Invalid data provided","Os Dados Fornecidos são Inválidos "
+"%1 coupon(s) have been generated.","%1 cupom(s) foram gerados."
+"Something went wrong while generating coupons. Please review the log and try again.","Ocorreu um erro ao gerar cupons. Reveja o log e tente novamente."
+"No import file chosen","Nenhum arquivo de importação escolhido"
+"Import has been done.","A importação foi concluída."
+"The wrong rule is specified.","A regra errada foi especificada."
+"Usage Report","Relatório de Uso"
+"This coupon no longer exists.","Este cupom não existe mais."
+"Edit Coupon #","Editar Cupom #"
+"The coupon is saved.","O cupom foi salvo."
+"Something went wrong while saving the coupon data.","Ocorreu um erro ao salvar os dados do cupom."
+"The ""%1"" must be completed","O ""%1"" deve ser completado"
+"The pattern must be set up.","O padrão deve ser configurado."
+"The rule must be set up.","A regra deve ser configurada."
+"Generate Coupons","Gerar Cupons"
+View,Visualizar
+"Amasty: Coupon Usage Report","Amasty: Relatório de Uso de Cupom"
+"Coupon Usage Report","Relatório de Uso de Cupom"
+"Coupon Code","Código do Cupom"
+"Coupon Information","Informação do Cupom"
+"Rule Name","Nome da Regra"
+Coupon,Cupom
+"Track Number","Código de Rastreio"
+"Order #","Pedido #"
+G.T.(Purchased),G.T.(Adquirido)
+Status,Status
+"Purchased On","Comprado Em"
