@@ -30,7 +30,6 @@ Execute os comandos do Magento:
    bin/magento setup:static-content:deploy pt_BR -f
 
 
-
 💡 Dica
 Você pode automatizar esse processo com symlinks ou scripts para facilitar atualizações futuras.
 
