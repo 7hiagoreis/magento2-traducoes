@@ -24,9 +24,12 @@ Copie os arquivos para seus respectivos módulos dentro da pasta app/code (ou ve
 Execute os comandos do Magento:
 
 
-bin/magento cache:flush
+```bash
+   bin/magento cache:flush
+   
+   bin/magento setup:static-content:deploy pt_BR -f
 
-bin/magento setup:static-content:deploy pt_BR -f
+
 
 💡 Dica
 Você pode automatizar esse processo com symlinks ou scripts para facilitar atualizações futuras.
